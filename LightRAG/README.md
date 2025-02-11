@@ -1,4 +1,3 @@
-# Project-5-Group-05
 # LightRAG API Server
 
 LightRAG is a FastAPI-based server for Retrieval-Augmented Generation (RAG) operations. It enables seamless interaction with large language models (LLMs) through RESTful HTTP APIs for inserting data, querying, and retrieving information.
