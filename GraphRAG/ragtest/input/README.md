@@ -1,0 +1,1 @@
+# Add your input text files in this directory before generating the knowledge index graph.

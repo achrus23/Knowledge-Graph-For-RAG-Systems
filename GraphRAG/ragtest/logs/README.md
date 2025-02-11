@@ -1,0 +1,1 @@
+# The logs are captured and saved in this directory.

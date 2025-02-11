@@ -1,0 +1,1 @@
+# The output files are created and stored in this directory when we generate the knowledge graph.
