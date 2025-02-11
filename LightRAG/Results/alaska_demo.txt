@@ -1,0 +1,101 @@
+E:\CourseWork-Fall-2024\CSE-511-DPS\Project-2\LightRAG>python ./examples/lightrag_openai_demo.py
+INFO:lightrag:Logger initialized for working directory: index_default2
+INFO:lightrag:Load KV llm_response_cache with 0 data
+INFO:lightrag:Load KV full_docs with 0 data
+INFO:lightrag:Load KV text_chunks with 0 data
+INFO:nano-vectordb:Init {'embedding_dim': 1536, 'metric': 'cosine', 'storage_file': 'index_default2\\vdb_entities.json'} 0 data
+INFO:nano-vectordb:Init {'embedding_dim': 1536, 'metric': 'cosine', 'storage_file': 'index_default2\\vdb_relationships.json'} 0 data
+INFO:nano-vectordb:Init {'embedding_dim': 1536, 'metric': 'cosine', 'storage_file': 'index_default2\\vdb_chunks.json'} 0 data
+INFO:lightrag:[New Docs] inserting 1 docs
+Chunking documents: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  1.70doc/s]
+INFO:lightrag:[New Chunks] inserting 1 chunks
+INFO:lightrag:Inserting 1 vectors to chunks
+Generating embeddings:   0%|                                                                                                       | 0/1 [00:00<?, ?batch/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+Generating embeddings: 100%|███████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:03<00:00,  3.44s/batch]
+INFO:lightrag:[Entity Extraction]...
+Extracting entities from chunks:   0%|                                                                                             | 0/1 [00:00<?, ?chunk/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Extracting entities from chunks: 100%|█████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:38<00:00, 38.55s/chunk]
+INFO:lightrag:Inserting entities into storage...
+Inserting entities: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<?, ?entity/s]
+INFO:lightrag:Inserting relationships into storage...
+Inserting relationships: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<?, ?relationship/s]
+INFO:lightrag:Inserting 2 vectors to entities
+Generating embeddings:   0%|                                                                                                       | 0/1 [00:00<?, ?batch/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+Generating embeddings: 100%|███████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  1.00batch/s]
+INFO:lightrag:Inserting 1 vectors to relationships
+Generating embeddings:   0%|                                                                                                       | 0/1 [00:00<?, ?batch/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+Generating embeddings: 100%|███████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:01<00:00,  1.24s/batch]
+INFO:lightrag:Writing graph with 2 nodes, 1 edges
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+Sorry, I'm not able to provide an answer to that question.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:lightrag:kw_prompt result:
+{"high_level_keywords":["Alaska","Geography","Culture","Climate"],"low_level_keywords":["Statehood","Native tribes","Wildlife","Natural resources","Tourism","Climate conditions","Glaciers","Northern lights"]}
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:lightrag:Local query uses 2 entites, 1 relations, 1 text units
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+## Overview of Alaska
+
+Alaska is a unique and fascinating state located in the northwest corner of North America. As a non-contiguous U.S. state, it holds the title of the largest state in the United States by area, surpassing Texas, California, and Montana combined. Despite its vast expanse, Alaska has one of the lowest population densities in the country, with a population of approximately 736,081 as of 2020. It is also noteworthy for being the most populous territory predominantly north of the 60th parallel.
+
+The geography of Alaska is remarkable; it shares a border with Canada's Yukon and British Columbia to the east, and it encounters Russia across the Bering Strait. With the Arctic Ocean to the north and the Pacific Ocean to the south, Alaska's strategic location contributes to its diverse ecological environment. The state is renowned for its breathtaking landscapes, which include mountains, glaciers, and extensive uninhabited territories, making it a prime location for outdoor activities and tourism.
+
+## Historical Significance
+
+Alaska's history is rich and complex, with Indigenous peoples having inhabited the region for thousands of years. It is believed that they were the first settlers of North America via the Bering land bridge. The turning point in Alaska's history came in the 18th century with the Russian Empire's colonization, which led to the establishment of Russian America. After enduring administrative changes and challenges related to its vast size and remoteness, Alaska was sold to the United States in 1867 for $7.2 million, a decision that ultimately shaped its modern identity.
+
+Alaska achieved statehood on January 3, 1959, becoming the 49th state. Since then, it has developed an economy significantly reliant on its abundant natural resources, including commercial fishing, oil, and natural gas. The economic output allows for one of the highest per capita incomes in the U.S., despite the state being characterized by a relatively small overall economy.
+
+## Economic Landscape and Culture
+
+The economic foundation of Alaska is heavily influenced by its natural resources. Industries such as commercial fishing and oil extraction are predominant, alongside tourism and military bases, which contribute to the local economy. Interestingly, a substantial portion of the land in Alaska is federally owned, which includes national forests and parks, further emphasizing the state's commitment to preserving its natural heritage.
+
+Alaska’s culture is a tapestry of Native traditions and modern influences. It stands out with a significant Indigenous population, comprising over 15% of its residents, which is the second highest proportion of any U.S. state, trailing only Hawaii. The political climate in Alaska is characterized by a libertarian-leaning ethos, with many residents advocating for individual freedoms. The state is also recognized for being one of the first to legalize recreational marijuana.
+
+In summary, Alaska is not just the largest state in the U.S.; it is a region with rich historical roots, diverse geography, a unique economy, and a vibrant cultural landscape. Its contrasts, such as being one of the least populated states while housing significant natural wealth, highlight the complex nature of this vast frontier.
+INFO:lightrag:kw_prompt result:
+{"high_level_keywords":["Alaska","Geography","Culture","Climate"],"low_level_keywords":["Statehood","Native tribes","Wildlife","Natural resources","Tourism","Climate conditions","Glaciers","Northern lights"]}
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:lightrag:Global query uses 2 entites, 1 relations, 1 text units
+## Overview of Alaska
+
+Alaska is a unique and fascinating state located in the northwest corner of North America. As a non-contiguous U.S. state, it holds the title of the largest state in the United States by area, surpassing Texas, California, and Montana combined. Despite its vast expanse, Alaska has one of the lowest population densities in the country, with a population of approximately 736,081 as of 2020. It is also noteworthy for being the most populous territory predominantly north of the 60th parallel.
+
+The geography of Alaska is remarkable; it shares a border with Canada's Yukon and British Columbia to the east, and it encounters Russia across the Bering Strait. With the Arctic Ocean to the north and the Pacific Ocean to the south, Alaska's strategic location contributes to its diverse ecological environment. The state is renowned for its breathtaking landscapes, which include mountains, glaciers, and extensive uninhabited territories, making it a prime location for outdoor activities and tourism.
+
+## Historical Significance
+
+Alaska's history is rich and complex, with Indigenous peoples having inhabited the region for thousands of years. It is believed that they were the first settlers of North America via the Bering land bridge. The turning point in Alaska's history came in the 18th century with the Russian Empire's colonization, which led to the establishment of Russian America. After enduring administrative changes and challenges related to its vast size and remoteness, Alaska was sold to the United States in 1867 for $7.2 million, a decision that ultimately shaped its modern identity.
+
+Alaska achieved statehood on January 3, 1959, becoming the 49th state. Since then, it has developed an economy significantly reliant on its abundant natural resources, including commercial fishing, oil, and natural gas. The economic output allows for one of the highest per capita incomes in the U.S., despite the state being characterized by a relatively small overall economy.
+
+## Economic Landscape and Culture
+
+The economic foundation of Alaska is heavily influenced by its natural resources. Industries such as commercial fishing and oil extraction are predominant, alongside tourism and military bases, which contribute to the local economy. Interestingly, a substantial portion of the land in Alaska is federally owned, which includes national forests and parks, further emphasizing the state's commitment to preserving its natural heritage.
+
+Alaska’s culture is a tapestry of Native traditions and modern influences. It stands out with a significant Indigenous population, comprising over 15% of its residents, which is the second highest proportion of any U.S. state, trailing only Hawaii. The political climate in Alaska is characterized by a libertarian-leaning ethos, with many residents advocating for individual freedoms. The state is also recognized for being one of the first to legalize recreational marijuana.
+
+In summary, Alaska is not just the largest state in the U.S.; it is a region with rich historical roots, diverse geography, a unique economy, and a vibrant cultural landscape. Its contrasts, such as being one of the least populated states while housing significant natural wealth, highlight the complex nature of this vast frontier.
+INFO:lightrag:kw_prompt result:
+{"high_level_keywords":["Alaska","Geography","Culture","Climate"],"low_level_keywords":["Statehood","Native tribes","Wildlife","Natural resources","Tourism","Climate conditions","Glaciers","Northern lights"]}
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:lightrag:Local query uses 2 entites, 1 relations, 1 text units
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:lightrag:Global query uses 2 entites, 1 relations, 1 text units
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+## Overview of Alaska
+
+Alaska, the largest U.S. state by area, is a non-contiguous state located in the northwest extremity of North America. Unique among U.S. states, Alaska is known for its vast, sprawling landscapes and low population density, which contributes to its distinction as one of the most sparsely populated regions in the United States. As of 2020, it had a population of approximately 736,081, making it the third-least populous state in the country. Geographically, Alaska has the added uniqueness of being considered the northernmost, westernmost, and easternmost state due to the location of the Aleutian Islands, which cross the 180th meridian.
+
+Historically, Alaska has played a significant role as a point of entry for early human settlement in North America, believed to have served as a migratory route via the Bering land bridge. The region has a rich Indigenous heritage, with Indigenous peoples inhabiting the territory for thousands of years. It later became a colony of the Russian Empire, which facilitated colonization and established a native Alaskan Creole population. Eventually, in 1867, Alaska was sold to the United States for $7.2 million, with Alaska becoming the 49th state on January 3, 1959.
+
+## Economy and Resources
+
+Alaska's economy is heavily dependent on its abundant natural resources. Despite a small overall economy, it boasts one of the highest per capita incomes in the nation, largely due to commerce stemming from fishing and the extraction of oil and natural gas. The state has a significant number of U.S. Armed Forces bases, and tourism also plays a vital role in its economy. Approximately half of Alaska is federally-owned land that encompasses numerous national forests, parks, and wildlife refuges, emphasizing the state’s natural beauty and ecological diversity.
+
+This reliance on natural resources and tourism has led to a unique political and cultural landscape. Alaska is known for its libertarian tendencies and generally leans toward the Republican Party in national elections. Additionally, it is considered one of the most irreligious states in the U.S. and was one of the first to legalize recreational marijuana.
+
+## Conclusion
+
+In summary, Alaska is not just remarkable for its size, but also for its rich history and complex economic landscape. Occupying an extraordinary geographical position, it offers striking contrasts in population density and cultural diversity, particularly concerning its Indigenous heritage. The state continues to be a significant player in the American economic sphere, particularly in industries reliant on its natural resources, and maintains a unique political and social culture distinct from the contiguous United States.

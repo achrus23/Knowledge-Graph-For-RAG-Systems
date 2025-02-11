@@ -1,0 +1,52 @@
+{
+    "alaska_wiki_article.txt": {
+        "total_runtime": 31.644289016723633,
+        "steps": {
+            "insert_document": 21.75324535369873,
+            "query_naive": 1.1913814544677734,
+            "query_local_error": "cannot unpack non-iterable NoneType object",
+            "query_global_error": "cannot unpack non-iterable NoneType object",
+            "query_hybrid_error": "cannot unpack non-iterable NoneType object"
+        }
+    },
+    "california_wiki_article.txt": {
+        "total_runtime": 97.28205633163452,
+        "steps": {
+            "insert_document": 74.56283593177795,
+            "query_naive": 7.552884340286255,
+            "query_local_error": "cannot unpack non-iterable NoneType object",
+            "query_global": 11.682395696640015,
+            "query_hybrid_error": "cannot unpack non-iterable NoneType object"
+        }
+    },
+    "new_york_(state)_wiki_article.txt": {
+        "total_runtime": 113.15407276153564,
+        "steps": {
+            "insert_document": 76.60121154785156,
+            "query_naive": 1.719839334487915,
+            "query_local": 9.077336072921753,
+            "query_global": 12.378782033920288,
+            "query_hybrid": 13.376903772354126
+        }
+    },
+    "washington,_d.c._wiki_article.txt": {
+        "total_runtime": 100.06860065460205,
+        "steps": {
+            "insert_document": 63.2903368473053,
+            "query_naive": 1.6952013969421387,
+            "query_local": 2.316988468170166,
+            "query_global": 16.03097629547119,
+            "query_hybrid": 16.735097646713257
+        }
+    },
+    "washington_(state)_wiki_article.txt": {
+        "total_runtime": 84.20676565170288,
+        "steps": {
+            "insert_document": 54.23540449142456,
+            "query_naive": 1.7297182083129883,
+            "query_local": 2.1931912899017334,
+            "query_global": 12.121245861053467,
+            "query_hybrid": 13.927205801010132
+        }
+    }
+}

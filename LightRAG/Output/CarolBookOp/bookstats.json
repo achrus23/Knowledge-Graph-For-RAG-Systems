@@ -1,0 +1,10 @@
+{
+    "total_runtime": 169.88066625595093,
+    "steps": {
+        "insert_document": 105.2084412574768,
+        "query_naive": 8.990467071533203,
+        "query_local": 20.09653401374817,
+        "query_global": 17.385939836502075,
+        "query_hybrid": 18.199284076690674
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "total_runtime": 111.836177110672,
+    "steps": {
+        "insert_document": 79.78758835792542,
+        "query_global": 32.04858875274658
+    }
+}

@@ -1,0 +1,2718 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;NEW YORK STATE CONSTITUTION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The New York State Constitution outlines the framework and fundamental laws governing the state and its government."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;ALBANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Albany is the capital city of New York and the sixth-largest city in the state."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;SUMMER OLYMPICS 2012&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Summer Olympics 2012 is a significant international sports event that New York City bid for but ultimately lost to London."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;GOVERNOR OF NEW YORK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Governor of New York serves as the state's chief executive officer, responsible for the implementation of state laws and policies."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;SHERRILL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sherrill is noted as the smallest city in New York located in Oneida County."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;TRIPLE CROWN OF THOROUGHBRED RACING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Triple Crown of Thoroughbred Racing is a series of prestigious horse races in the United States, with the Belmont Stakes being one of its components."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;LIEUTENANT GOVERNOR OF NEW YORK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Lieutenant Governor of New York serves alongside the Governor, often filling in during the Governor's absence and undertaking additional duties."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;HEMPSTEAD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hempstead is the most populous town in New York, close to the New York City metropolitan area."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;NEW YORK CITY FC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"New York City FC is a Major League Soccer franchise based in New York City, aiming to build a new stadium in Queens."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;NEW YORK STATE LEGISLATURE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York State Legislature is the state’s legislative body, responsible for creating laws and overseeing the budget."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;BUFFALO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Buffalo is a city in Western New York known for its unique climate, making it a potential climate change haven."&lt;SEP&gt;"Buffalo is a major city in New York and part of the Buffalo–Niagara Falls metropolitan area."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532&lt;SEP&gt;chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="CANADA">
+      <data key="d0">GEO</data>
+      <data key="d1">Canada is the largest foreign market for New York exports, showcasing economic ties between the two regions.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;ELLIS ISLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ellis Island is a historical location in New York that was opened as a museum of immigration in 1990."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;ROCHESTER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rochester is a city in New York known for its cultural and educational institutions."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="UNITED KINGDOM">
+      <data key="d0">GEO</data>
+      <data key="d1">The United Kingdom is a significant foreign market for New York's exports, indicating international trade relationships.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;SEPTEMBER 11 ATTACKS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The September 11 attacks were a series of coordinated terrorist attacks that took place on September 11, 2001, leading to the collapse of the Twin Towers."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;CAPITAL DISTRICT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Capital District refers to the Albany, Schenectady, and Troy metropolitan area in New York."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="SWITZERLAND">
+      <data key="d0">GEO</data>
+      <data key="d1">Switzerland is a key foreign market for New York exports, reflecting the global nature of its economy.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;TWIN TOWERS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Twin Towers were part of the World Trade Center in Lower Manhattan, which was destroyed during the September 11 attacks."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;POUGHKEEPSIE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Poughkeepsie is a city in New York and part of the Hudson Valley region."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="ISRAEL">
+      <data key="d0">GEO</data>
+      <data key="d1">Israel stands as an important foreign market for New York exports, emphasizing international economic interactions.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;WORLD TRADE CENTER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The World Trade Center was a complex of buildings in Lower Manhattan, associated with the September 11 attacks and subsequent rebuilding efforts."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;SYRACUSE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Syracuse is a city in New York, known for its educational institutions and cultural landscape."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="HONG KONG">
+      <data key="d0">GEO</data>
+      <data key="d1">Hong Kong is one of New York's notable foreign export markets, demonstrating the interconnectedness of global trade.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;LOWER MANHATTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lower Manhattan is the southernmost part of Manhattan, New York City, known for its significant events including the September 11 attacks."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;UTICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Utica is a city located in New York, part of the Mohawk Valley region."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="NEW YORK UNIVERSITY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">New York University, based in Manhattan, ranks highly among state-based universities and is known for diverse programs.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;NATIONAL SEPTEMBER 11 MEMORIAL &amp; MUSEUM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National September 11 Memorial &amp; Museum is established to honor the victims of the September 11 attacks and opened on the tenth anniversary of the event."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;BINGHAMTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Binghamton is a city in Broome County, New York, situated in the Southern Tier region."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="CITY UNIVERSITY OF NEW YORK">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The City University of New York is the public university system of New York City, the largest urban university system in the U.S.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;ONE WORLD TRADE CENTER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"One World Trade Center is a building completed in 2014, which became the tallest skyscraper in the Western Hemisphere and symbolizes American resilience after 9/11."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;NORTHEAST MEGALOPOLIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Northeast megalopolis refers to the populated area stretching from New Hampshire to Virginia, including New York City and its surrounding regions."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="STATE UNIVERSITY OF NEW YORK">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The State University of New York (SUNY) is a vast public university system offering a range of academic options across New York State.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;HURRICANE SANDY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hurricane Sandy was a destructive storm that struck New York and surrounding areas on October 29-30, 2012, causing extensive damage and flooding."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;GREAT DEPRESSION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Great Depression was a severe worldwide economic downturn that took place during the 1930s, impacting Franklin D. Roosevelt's presidency."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="THE JUILLIARD SCHOOL">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Juilliard School is a leading institution for music and dance located in Manhattan, known for its high performance standards.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;COVID-19 PANDEMIC&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The COVID-19 pandemic is a global health crisis that began affecting New York in 2020, leading to significant impacts on daily life and public health initiatives."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;AMERICAN REVOLUTIONARY WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The American Revolutionary War was a conflict between the thirteen American colonies and Great Britain that led to the founding of the United States."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="HUDSON VALLEY">
+      <data key="d0">GEO</data>
+      <data key="d1">The Hudson Valley is a geographical region in New York known for its agricultural production, particularly apples and grapes.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;GOVERNOR ANDREW CUOMO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Andrew Cuomo was the Governor of New York during the COVID-19 pandemic and was involved in decision-making related to public health."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;STONEWALL RIOTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Stonewall Riots were a series of uprisings by members of the LGBTQ community in response to a police raid at the Stonewall Inn in 1969, marking a significant moment in the LGBTQ rights movement."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="PREPARED FOODS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Prepared Foods refers to the category of goods that encompasses pre-made meals and food products that are produced and sold in New York.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;MAYOR BILL DE BLASIO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bill de Blasio was the Mayor of New York City during the COVID-19 pandemic, known for implementing various restrictions to control the outbreak."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;IROQUOIS CONFEDERACY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Iroquois Confederacy is a historical alliance of several Native American tribes primarily from the northeastern United States, known for their military campaigns and complex political system."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="COMPUTERS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Computers represent a major category of goods manufactured and exported from New York, highlighting its technological sector.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;3 WORLD TRADE CENTER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"3 World Trade Center is one of the buildings completed as part of the rebuilding of the World Trade Center site after the September 11 attacks."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;IROQUOIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Iroquois refers to the various Native American tribes that were part of the Iroquois Confederacy, which included nations such as the Seneca, Cayuga, and Mohawk."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="ELECTRONICS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Electronics include various consumer and industrial electronic goods produced in New York, significant to its economy.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;4 WORLD TRADE CENTER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"4 World Trade Center is another building completed as part of the redevelopment of the World Trade Center area following the September 11 attacks."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;ALGONQUIAN TRIBES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Algonquian tribes were a group of Native American tribes that shared a common language family and were distributed across the northeastern United States."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="CUT DIAMONDS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Cut Diamonds are specialized goods that represent a valuable sector within New York's export market.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;7 WORLD TRADE CENTER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"7 World Trade Center was part of the World Trade Center complex that collapsed during the September 11 attacks, and it was later rebuilt."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;SIOUAN TRIBES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Siouan tribes include a group of Native American tribes who speak Siouan languages, primarily located in the Midwest and Great Plains regions of America."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="OIL">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Oil is one of the largest categories of imports for New York, critical for its energy consumption.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;WORLD TRADE CENTER TRANSPORTATION HUB&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The World Trade Center Transportation Hub is a transit center designed to facilitate access to and from the World Trade Center area, completed after the September 11 attacks."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;TUSCARORA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Tuscarora were a Native American tribe that became the sixth nation of the Iroquois Confederacy after migrating north due to conflict."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="GOLD">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Gold is a major imported commodity for New York, playing an essential role in its economy and industries.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;LIBERTY PARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Liberty Park is a green space created at the World Trade Center site that offers a memorial to those who lost their lives in the September 11 attacks."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;SENECA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Seneca are one of the tribes of the Iroquois Confederacy, known for their significant role in various historical conflicts and treaties."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="ALUMINUM">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Aluminum is a significant imported product for New York, used across various sectors including manufacturing.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;FITERMAN HALL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fiterman Hall is a building completed as part of the redevelopment of the World Trade Center site, serving educational purposes for the Borough of Manhattan Community College."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;CAYUGA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Cayuga are another tribe of the Iroquois Confederacy, known historically for agriculture and trade."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="NATURAL GAS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Natural Gas is a crucial import for New York, contributing to its energy supply.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;MOUNT MARCY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Marcy is the highest point in New York State, located in the Adirondack High Peaks region."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;ONONDAGA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Onondaga are one of the original five nations of the Iroquois Confederacy, recognized for their central role in the Confederacy's governance."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="ELECTRICITY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Electricity represents a vital resource for New York, with diverse sources of generation across the state.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;ADIRONDACK MOUNTAINS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Adirondack Mountains are a vast mountainous region in northern New York, known for its wilderness and outdoor recreational opportunities."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;ONEIDA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Oneida are a tribe within the Iroquois Confederacy, involved in both military and political actions during colonial times."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="ROUGH DIAMONDS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Rough Diamonds are imported commodities that highlight the luxury market in New York.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;LAKE CHAMPLAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lake Champlain is a large freshwater lake located in the northern region of New York and bordered by Vermont and Quebec, Canada."&lt;SEP&gt;"Lake Champlain is a significant body of water shared by New York and Vermont, essential for ecological and recreational activities."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb&lt;SEP&gt;chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;MOHAWK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Mohawk are one of the tribes of the Iroquois Confederacy, known for their strategic actions in various historical conflicts, including the American Revolution."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="LUMBER">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Lumber is an important import for New York, utilized in construction and manufacturing.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;NIAGARA RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Niagara River is a river that flows between Lake Erie and Lake Ontario and forms part of the border between the United States and Canada."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;LENAPE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Lenape were a Native American people who lived in the northeastern United States, with significant land holdings prior to the arrival of European settlers."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="GRAPE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Grape refers to the agricultural product that is significant in New York's economy and viticulture.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;THOUSAND ISLANDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Thousand Islands is an archipelago in the Saint Lawrence River bordering Ontario and New York, known for its natural beauty and recreational activities."&lt;SEP&gt;"The Thousand Islands is an archipelago situated within the Saint Lawrence River, notable for its geographical and ecological significance."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb&lt;SEP&gt;chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;WILLIAM PENN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"William Penn was the English founder of Pennsylvania, known for his positive relations with the Lenape tribe and his Quaker beliefs."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="WINE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Wine represents a key product from New York, with a growing reputation for its quality and production.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;SOUTHERN TIER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Southern Tier is a region in New York State that includes many counties along the border with Pennsylvania, characterized by its rural landscape."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;NANTICOKE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Nanticoke were a Native American tribe originally located on the Delmarva Peninsula, relocated to New York after 1778."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="VINEYARDS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Vineyards are agricultural establishments crucial for grape and wine production in New York.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;TUG HILL REGION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Tug Hill region is located east of Lake Ontario in New York, known for its snowfall and outdoor activities."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;FRENCH AND INDIAN WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The French and Indian War was a conflict between Britain and France in North America from 1754 to 1763, impacting various Native American tribes significantly."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="MAPLE SYRUP">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Maple Syrup is one of the key agricultural products produced in New York, reflecting its agricultural diversity.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;HUDSON VALLEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Hudson Valley is a region in New York State that runs along the Hudson River, notable for its historical and cultural significance."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;AMERICAN REVOLUTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The American Revolution was a colonial revolt against British rule from 1765 to 1783, during which many Native American tribes played complex roles."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="APPLES">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Apples are a leading agricultural product in New York, significant for both state economy and culinary uses.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;GREAT APPALACHIAN VALLEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Great Appalachian Valley dominates eastern New York and is significant for its geography and ecosystems."</data>
+      <data key="d2">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;1609 VOYAGE OF HENRY HUDSON&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Henry Hudson's 1609 voyage marked the beginning of European exploration and trade interactions with Native American tribes in the New York area."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="CHERRIES">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Cherries are another important fruit crop in New York, contributing to its agricultural output.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;LONG ISLAND SOUND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Long Island Sound is a tidal estuary located between Long Island and the Connecticut mainland, significant for navigation and ecological diversity."&lt;SEP&gt;"Long Island Sound is a tidal estuary located between Long Island and the Connecticut shoreline, notable for its recreational and environmental importance."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb&lt;SEP&gt;chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;FORT NASSAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fort Nassau was the first Dutch trading post in North America, established in 1614 near present-day Albany, New York."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="CABBAGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Cabbage is a top agricultural product in New York, emphasizing the state’s strengths in vegetable production.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;RHODE ISLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rhode Island is a state that shares a water border with New York, particularly through Long Island Sound, denoting a close geographical relationship."&lt;SEP&gt;"Rhode Island is a state that shares a water border with New York, specifically through Long Island Sound."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb&lt;SEP&gt;chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;FORT ORANGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fort Orange replaced Fort Nassau as a key Dutch trading post along the Hudson River in present-day Albany, established in 1624."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="DAIRY PRODUCTS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Dairy Products represent a vital sector of New York's agriculture, with significant contributions to the economy.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;VERMONT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vermont is a New England state that shares Lake Champlain with New York, indicating a geographical connection between the two."&lt;SEP&gt;"Vermont is a New England state that shares its northern border with New York, around Lake Champlain."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb&lt;SEP&gt;chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;NEW AMSTERDAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"New Amsterdam was a 17th-century Dutch settlement that later became New York City."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="ONIONS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Onions are among the noteworthy agricultural products produced in New York, showcasing its farming diversity.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;QUEBEC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quebec is a Canadian province that borders New York to the north and is known for its French-speaking population."&lt;SEP&gt;"Quebec is a Canadian province that shares a border with the state of New York, highlighting its positional significance in North America."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb&lt;SEP&gt;chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;MASCOUTEN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Mascouten were a Native American tribe that interacted and competed with the Iroquois Confederacy before their decline."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="POTATOES">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Potatoes are a significant agricultural product within New York, important for both state agriculture and consumer markets.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;SILICON ALLEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Silicon Alley refers to New York City's high technology and entrepreneurship ecosystem, once confined to Manhattan, now expanding throughout the metropolitan region."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;ERIE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Erie were a Native American tribe located in the Great Lakes region, known for their conflicts with other tribes, including the Iroquois."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="SALTWATER COMMERCIAL FISHERY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Saltwater Commercial Fishery in New York contributes to the state's economy through seafood production, particularly on Long Island.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;CORNELL UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Cornell University is a prestigious academic institution involved in technology research and development, particularly through partnerships in New York City."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;CHONNONTON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Chonnonton were a Native American tribe that was involved in the historical conflicts in the northeastern United States."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="CLAMS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Clams are a principal catch by value within New York's fishing industry, highlighting local marine resources.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;TECHNION-ISRAEL INSTITUTE OF TECHNOLOGY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Technion-Israel Institute of Technology is a leading institution partnered with Cornell University to build a graduate school of applied sciences in Manhattan."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;TUTELO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Tutelo were a Siouan-speaking Native American tribe that eventually merged with other tribes following European colonization."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="LOBSTERS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Lobsters are a valuable seafood product harvested in New York, underscoring the state's fisheries.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;GLOBALFOUNDRIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GlobalFoundries is a semiconductor manufacturing company that moved its headquarters to Saratoga County, New York, indicating growth in the technology sector in the region."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;SAPONI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Saponi were a Native American tribe originally from Virginia, who later settled with other groups after European expansion."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="SQUID">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Squid is part of the seafood industry in New York, contributing to its fishing economy.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;MANHATTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Manhattan is a borough of New York City, home to several sports teams and the United Nations headquarters, making it a cultural and political hub."&lt;SEP&gt;"Manhattan is known for having the largest office market in the United States, with a substantial amount of office space and a significant central business district."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d&lt;SEP&gt;chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;SUSQUEHANNOCK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Susquehannock were a Native American tribe in Pennsylvania known for their beaver trade and conflict with European settlers."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="FLOUNDER">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Flounder represents another significant species within New York's commercial fisheries.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;TECH VALLEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tech Valley encompasses regions in eastern New York recognized for growth in high technology, particularly in computer hardware and nanotechnology sectors."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;MINGO SENECA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Mingo Seneca refer to the group of Seneca who migrated to Ohio after the American Revolution."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="RENAISSANCE SCHOOL OF MEDICINE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Renaissance School of Medicine is one of the academic medical centers in New York, associated with Stony Brook University.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;RENSSELAER POLYTECHNIC INSTITUTE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Rensselaer Polytechnic Institute is an academic institution located in Tech Valley, contributing to research and development in high technology."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;ONTARIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ontario is a province in Canada where many Iroquois descendants currently reside."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="NORTON COLLEGE OF MEDICINE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Norton College of Medicine at SUNY Upstate Medical University is notable for its role in medical education in New York.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;NEW YORK STATE EMPIRE STATE DEVELOPMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"New York State Empire State Development promotes tourism and economic development through campaigns such as 'I Love New York'."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;DELMARVA PENINSULA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Delmarva Peninsula is a region that was originally home to the Nanticoke and other Native American tribes before significant relocation occurred."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="SUNY DOWNSTATE MEDICAL CENTER">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">SUNY Downstate Medical Center in Brooklyn is another key institution for medical education and healthcare services in New York.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;I LOVE NEW YORK&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"I Love New York is a campaign slogan and logo used since 1977 to promote tourism in New York, including its diverse offerings and attractions."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;CASTLE ISLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Castle Island is located within present-day Albany, New York, and is historically significant for being the site of early French and Dutch settlements."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="UNIVERSITY OF ROCHESTER">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">University of Rochester is a notable private institution in New York, recognized for its research and academic programs.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;BROADWAY LEAGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Broadway League is an organization that reports on the economic impact of Broadway shows in New York, including ticket sales and attendance."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;MARTHA'S VINEYARD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Martha's Vineyard is an island in Massachusetts where Giovanni da Verrazzano was pushed during his exploration in 1524."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="ROCKEFELLER UNIVERSITY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Rockefeller University is a private institution in New York renowned for its focus on biomedical research.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;NEW YORK STATE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York State encompasses New York City and is known for various economic activities, including exports and tourism."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;NEW NETHERLAND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"New Netherland was a 17th-century Dutch colony that included parts of the eastern United States, which were crucial in the fur trade."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="MERCY UNIVERSITY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Mercy University is a private university in New York that offers a variety of undergraduate and graduate programs.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;OFFICE SPACE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Office Space in Manhattan refers to the vast amount of commercial real estate that facilitates business operations and economic activity in the city."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;BEVERWIJCK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Beverwijck was the settlement developed from Fort Orange, serving as a center for trade and interaction between Europeans and Native Americans."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="NEW YORK INSTITUTE OF TECHNOLOGY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">New York Institute of Technology provides technical and professional education, contributing to diverse fields of study.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;BIOTECHNOLOGY&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Biotechnology refers to the technology that utilizes living systems and organisms to develop products, which is a significant industry within New York State, particularly on Long Island."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;NEW ORANGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"New Orange was the name given to New York City when recaptured by the Dutch during the Third Anglo-Dutch War."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e</data>
+    </node>
+    <node id="RENSSELAER POLYTECHNIC INSTITUTE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Rensselaer Polytechnic Institute is a private institution known for its engineering and technological programs.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;DIGITAL MEDIA&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Digital Media is an industry representing a segment of high technology in New York, encompassing various forms of content creation and distribution."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;MASSACHUSETTS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Massachusetts is another New England state, bordering New York primarily on land, illustrating regional interactions."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="YESHIVA UNIVERSITY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Yeshiva University is a private university in New York with a focus on Jewish education alongside secular studies.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="STONEWALL 50">
+      <data key="d0">EVENT</data>
+      <data key="d1">Stonewall 50 is a significant event commemorating the 50th anniversary of the Stonewall Riots, celebrated as WorldPride NYC 2019 and regarded as the largest LGBTQ+ pride event in world history, attracting four million attendees in New York City.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;VENTURE CAPITAL INVESTMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Venture Capital Investment is a financial activity where funding is provided to startups and small businesses with growth potential, significantly occurring in New York's tech ecosystem."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;NEW JERSEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Jersey is a Mid-Atlantic state that shares a mostly land border with New York, contributing to trade and travel between the two."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="HOFSTRA UNIVERSITY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Hofstra University is a private university in New York known for its undergraduate and graduate programs.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="BROOKLYN LIBERATION MARCH">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Brooklyn Liberation March is recognized as the largest transgender-rights demonstration in LGBTQ history, which took place on June 14, 2020, supporting Black transgender lives.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;ARTIFICIAL INTELLIGENCE (AI)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Artificial Intelligence (AI) is a rapidly growing sector in New York City, involving investments and initiatives to regulate its application in government."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;PENNSYLVANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pennsylvania is a Mid-Atlantic state that also has a land border with New York, influencing cultural and economic exchanges."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="ADELPHI UNIVERSITY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Adelphi University is a private liberal arts institution located in New York, providing a wide range of academic programs.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="PEW RESEARCH CENTER">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Pew Research Center is a think tank that conducts studies and research on various social issues, including the religious demographics of populations, as seen in their studies on New York's religious landscape.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;BROOKHAVEN NATIONAL LABORATORY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Brookhaven National Laboratory is a prominent scientific research facility located on Long Island, contributing to various high technology sectors."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;HUDSON RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Hudson River is a major waterway in New York that begins near Lake Tear of the Clouds and flows southward, affecting regional geography and ecology."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="BARD COLLEGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Bard College is a private liberal arts college located in New York, recognized for its progressive education and arts programs.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="PUBLIC RELIGION RESEARCH INSTITUTE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Public Religion Research Institute is an organization that conducts surveys and studies on religious, cultural, and political trends, including research on New York's spiritual population.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;COLD SPRING HARBOR LABORATORY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Cold Spring Harbor Laboratory is a research institution specializing in molecular biology and genetics, playing a pivotal role in biotechnology research on Long Island."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;GREAT LAKES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Great Lakes are a group of five freshwater lakes in North America, with New York being the only state that borders both them and the Atlantic Ocean."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="BARNARD COLLEGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Barnard College is a women's liberal arts college affiliated with Columbia University, emphasizing women's education.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="ROMAN CATHOLIC CHURCH">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Roman Catholic Church is the largest Christian denomination in New York, holding a significant presence in the state's religious landscape as of 2014.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;STONY BROOK UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Stony Brook University is an academic institution involved in STEM education and research, contributing to the Long Island technology sector."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;DELAWARE RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Delaware River is a significant river system in New York that also forms part of the border with New Jersey and Pennsylvania."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="COLGATE UNIVERSITY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Colgate University is a private liberal arts college in New York known for its strong academic programs.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;NEW YORK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York is a U.S. state known for its urban population, significant immigration, and diverse metropolitan areas, particularly New York City."&lt;SEP&gt;"New York is a U.S. state located in the northeastern region, bordered by several other states and sharing significant water bodies like Lake Champlain and the Atlantic Ocean."&lt;SEP&gt;"New York is a U.S. state where many Native American tribes, particularly the Iroquois, continue to have cultural and historical significance."&lt;SEP&gt;"New York is a state in the Northeastern U.S., known for its cultural, educational, and economic significance, as well as its extensive transportation systems and renowned schools."&lt;SEP&gt;"New York is a state in the United States known for its urban population, with New York City being the most populous city in the country."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e&lt;SEP&gt;chunk-66d3ca7a69922f0839f41beadd55587a&lt;SEP&gt;chunk-bb04e8a947124037bbee9b1e5e045532&lt;SEP&gt;chunk-de74918511ae11ecd49bc50d34f28fcb&lt;SEP&gt;chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="ARCHDIOCESE OF NEW YORK">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Archdiocese of New York is the largest Roman Catholic diocese in the state, overseeing numerous parishes and institutions.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;NEW YORK INSTITUTE OF TECHNOLOGY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"New York Institute of Technology is a higher education institution focusing on technology and engineering, significant to New York's educational landscape."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;DELAWARE RIVER BASIN COMPACT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Delaware River Basin Compact is a regulatory agreement signed in 1961 regarding the shared water resources of the Delaware system, involving New York and neighboring states."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="HAMILTON COLLEGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Hamilton College is a private liberal arts college in New York, emphasizing a rigorous educational experience.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;DOMINICAN REPUBLIC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Dominican Republic is a country whose immigrants significantly contribute to New York's demographic diversity."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="EASTERN CATHOLIC EPARCHY OF PASSAIC">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Eastern Catholic Eparchy of Passaic is the largest Eastern Catholic diocese in New York, representing the Ruthenian Greek Catholic Church.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;FEINSTEIN INSTITUTES FOR MEDICAL RESEARCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Feinstein Institutes for Medical Research is known for research in biomedical science and is part of the growing healthcare technology sector in New York."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;KÖPPEN CLIMATE CLASSIFICATION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Köppen climate classification is a system used to categorize the climate of regions; most of New York falls under a humid continental climate, influencing its weather patterns."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="HOBART AND WILLIAM SMITH COLLEGES">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Hobart and William Smith Colleges are private liberal arts colleges in New York that focus on interdisciplinary education.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;CHINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"China is one of the leading out-of-state birthplaces for immigrants settling in New York."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="NATIONAL BAPTIST CONVENTION (USA)">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The National Baptist Convention (USA) is one of the largest historically black Protestant churches in New York, significant in representing African American Baptists.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;ROCHESTER AREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rochester Area is significant in the photographic processing and imaging technology fields, with a diverse high technology sector supported by local academic institutions."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;GOVERNORS ISLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Governors Island is located in New York Harbor, planned to host a significant research and education center to combat the climate crisis."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="MARIST COLLEGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Marist College is a private liberal arts college in New York, noted for its academic excellence and scenic campus.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;GERMAN AMERICAN POPULATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The German American population is significant in regions of New York, particularly in Buffalo and Western New York."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="NEW YORK'S GROSS DOMESTIC PRODUCT (GDP)">
+      <data key="d0">EVENT</data>
+      <data key="d1">New York's GDP reflects the economic performance of the state, ranking it as the 11th-largest economy globally in 2022.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ROCHESTER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"University of Rochester is an academic institution contributing to technological advancements in the Rochester area, particularly in partnership with startups."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </node>
+    <node id="&quot;LAKE ERIE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lake Erie is one of the Great Lakes of North America, bordering New York to the northwest and impacting regional commerce and ecology."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="SARAH LAWRENCE COLLEGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Sarah Lawrence College is known for its unique curriculum and emphasis on individualized education.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="&quot;FRENCH CANADIAN POPULATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The French Canadian population is prominent in northern New York, particularly due to proximity to Quebec."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="WALL STREET">
+      <data key="d0">GEO</data>
+      <data key="d1">Wall Street is a famous street in the Financial District of Lower Manhattan, widely regarded as the financial center of the world and home to major stock exchanges.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="NEW YORK STATE ASSEMBLY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The New York State Assembly is the lower house of the New York State Legislature, responsible for proposing and voting on legislation, including recent recognition of commemorative events such as Abolition Commemoration Day.</data>
+      <data key="d2">chunk-bd583a6dea6df953cee5027cb1105622</data>
+    </node>
+    <node id="&quot;LAKE ONTARIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lake Ontario is the smallest of the Great Lakes, situated to the north of New York, influencing both economy and recreation."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="SKIDMORE COLLEGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Skidmore College is a private liberal arts college in New York recognized for its strong arts programs.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="UNITED NATIONS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The United Nations is an international organization headquartered in New York City, facilitating global cooperation.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="NEW YORK STOCK EXCHANGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The New York Stock Exchange is the world's largest stock exchange by market capitalization, located on Wall Street, playing a vital role in global finance.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="AMERICAN EXPRESS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">American Express is a major corporation that originated in New York, known for its financial services and credit cards.</data>
+      <data key="d2">chunk-838b06e1bb5bba4ef46fed9cc60d1e7e</data>
+    </node>
+    <node id="&quot;ADIRONDACKS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Adirondacks is a mountainous region in northern New York, known for its natural beauty and extensive outdoor recreational opportunities."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="ST. LAWRENCE UNIVERSITY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">St. Lawrence University is a private liberal arts college known for its scenic campus and ROTC programs.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="GREAT LAKES">
+      <data key="d0">GEO</data>
+      <data key="d1">The Great Lakes are a series of large freshwater lakes in North America that border New York State to the northwest, playing a vital role in its geography and economy.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="NASDAQ">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Nasdaq is the second-largest stock exchange globally, located at 165 Broadway in New York City, complementing the financial ecosystem alongside the NYSE.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;SONS OF LIBERTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Sons of Liberty was a group organized in New York City during the 1760s in response to the oppressive Stamp Act, advocating for the rights of the colonists."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;CATSKILLS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Catskills is a mountain range located southwest of Albany, New York, famous for its natural scenery and outdoor activities."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="UNION COLLEGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Union College is a private liberal arts college in New York known for its engineering and liberal arts programs.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="SOUTHERN TIER">
+      <data key="d0">GEO</data>
+      <data key="d1">The Southern Tier is a region of New York characterized by its mountainous terrain and is part of the Appalachian region.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="CHRISTIANITY">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Christianity is a major religious belief system in New York, accounting for a significant portion of the population as per various studies.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;STAMP ACT CONGRESS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Stamp Act Congress was a gathering of representatives from the Thirteen Colonies on October 19, 1765, to address grievances against the British Parliament, leading to significant revolutionary sentiments."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;TUG HILL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tug Hill is a region in upstate New York known for heavy lake-effect snowfall, particularly during winter months."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="VASSAR COLLEGE">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Vassar College is a prestigious liberal arts college in New York, part of the Seven Sisters, that emphasizes academic rigor.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </node>
+    <node id="TIMES SQUARE">
+      <data key="d0">GEO</data>
+      <data key="d1">Times Square is a major commercial and entertainment hub in New York City, famous for its bright lights and cultural significance.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="JUDAISM">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Judaism is the second-largest religion in New York, with a notable presence of both Orthodox and secular Jewish communities.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;DECLARATION OF INDEPENDENCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Declaration of Independence is a pivotal document proclaiming the Thirteen Colonies' rights and aspirations, adopted on July 4, 1776, with New York endorsing it on July 9, 1776."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;GOVERNOR'S ISLAND PROJECT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Governor's Island Project refers to the planned US$1 billion initiative aimed at creating a research and education center focused on climate change."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="RING-NECKED PHEASANT">
+      <data key="d0">GEO</data>
+      <data key="d1">The Ring-necked Pheasant is a species of bird found in New York, recognized for its vibrant plumage and distinctive ring around its neck.</data>
+      <data key="d2">chunk-a0efcd467d117995a0b07ebc60dcbce1</data>
+    </node>
+    <node id="&quot;HARLEM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Harlem is a neighborhood in New York City known as a cultural capital for African Americans."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="ISLAM">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Islam is practiced by a small but significant portion of New York's population, represented by various mosques, including the Powers Street Mosque.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;GEORGE CLINTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George Clinton was the first Governor of New York, inaugurated on July 30, 1777, and played a significant role in the state's early governance."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;EASTERN BLUEBIRD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The eastern bluebird is the state bird of New York, representing the state's rich biodiversity and avian life."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="&quot;BEDFORD-STUYVESANT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bedford-Stuyvesant is a neighborhood in Brooklyn, New York, recognized for having the largest population of African Americans in the U.S."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="BUDDHISM">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Buddhism is among the smaller religions in New York, contributing to the state's diverse spiritual landscape.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;BATTLE OF LONG ISLAND&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of Long Island, also known as the Battle of Brooklyn, was the first major battle of the American Revolutionary War, fought in August 1776."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;BALD EAGLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The bald eagle is a bird of prey found in New York, symbolizing wildlife conservation and recovery efforts in the state."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="THIRTEEN COLONIES">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Thirteen Colonies were a group of British colonies in North America, including New York, that declared independence from Great Britain.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="HINDUISM">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Hinduism, like Buddhism, represents a smaller but vibrant part of the diverse religious scene in New York.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;BRITISH ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The British Army was a military force that occupied New York City during the American Revolutionary War and served as a base of operations against the colonists."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;ENVIRONMENTAL CONCERNS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Environmental concerns in New York include various issues related to climate change, urbanization, and biodiversity preservation reflecting the state's ecological challenges."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="KING PHILIP'S WAR">
+      <data key="d0">EVENT</data>
+      <data key="d1">King Philip's War was a conflict between New England colonists and Native American tribes, including those in New York, representing a significant event in colonial history.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="ZOROASTRIANISM">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Zoroastrianism has a historical significance in New York as it is home to the oldest Zoroastrian fire temple in the nation.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;CONTINENTAL ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Continental Army was the unified military force of the Thirteen Colonies during the American Revolutionary War, crucial to the fight against British forces."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;HUMIDITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Humidity refers to the amount of moisture in the air, significantly influencing the climate patterns in New York, particularly in urban areas like New York City."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="NATIVE AMERICAN RELIGIONS">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Native American religions are represented in New York, though they account for a minority of the population.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;AFRICANS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Africans represent a growing immigrant group in New York, contributing to the state’s dynamic demographic landscape."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="&quot;PHILIP SCHUYLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Philip Schuyler was a prominent military leader and politician in New York during the late 18th century, instrumental in the Revolutionary War efforts."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;URBANIZATION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Urbanization in New York refers to the process of population growth and development in urban areas, impacting natural ecosystems and climate."</data>
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="&quot;AFRICAN AMERICAN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The African American community in New York has historical significance and continues to evolve with changing demographics."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="NON-WESTERN CHRISTIAN TRADITIONS">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">Non-Western Christian traditions, introduced post-1965 due to changing immigration laws, contribute to the religious diversity of New York.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;IROQUOIS NATIONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Iroquois Nations were a group of Native American tribes that played a significant role during the American Revolutionary War, with some siding with the British."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;GEORGE W. BUSH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George W. Bush is a prominent political figure who served as the 43rd President of the United States, associated with the 2000 presidential campaign."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;LOS ANGELES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Los Angeles is the second-most populous city in the United States and serves as a demographic contrast to New York City."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="SECOND GREAT AWAKENING">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Second Great Awakening was a major religious revival that influenced the development of new Christian denominations in New York.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;TREATY OF WESTMINSTER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Treaty of Westminster was a significant agreement that marked a period of negotiation and resolution following the events of the American Revolutionary War."&lt;SEP&gt;"The Treaty of Westminster was signed in 1674, which led to the transfer of New Netherland back to the English from the Dutch."</data>
+      <data key="d2">chunk-7f661486e103caba7768552047f5c44e&lt;SEP&gt;chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;AL GORE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Al Gore is a notable political figure who served as the Vice President of the United States and was the Democratic nominee in the 2000 presidential campaign."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;JEWISH POPULATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Jewish population in New York is the largest outside of Israel and plays a significant role in the state's culture."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="NEW AGE MOVEMENTS">
+      <data key="d0">CONCEPT</data>
+      <data key="d1">New Age movements represent a contemporary spiritual approach that finds a small following within New York's religious landscape.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="&quot;TREATY OF PARIS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Treaty of Paris was the agreement that ended the American Revolutionary War, officially recognizing American independence and ceasing hostilities between the United States and Great Britain."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;THE STATE OF NEW YORK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The State of New York is a significant U.S. state known for its historical role in presidential elections, being home to key political figures and nominees."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;ITALIAN AMERICAN POPULATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Italian American population is historically significant in New York, stemming from early 20th-century immigration."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="&quot;BARNARD COLLEGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Barnard College is a women's college affiliated with Columbia University, located in Manhattan, known for its academic rigor and historical ties to the Ivy League."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;WHITE PLAINS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"White Plains is a location in New York where the New York State Constitution was framed during the Revolutionary War period."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;THEODORE ROOSEVELT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Theodore Roosevelt was the 26th President of the United States and Governor of New York, recognized for his role in the 1904 presidential election."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;IRISH AMERICAN POPULATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Irish American population has a notable presence in New York's history, particularly in areas like Staten Island and Long Island."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="&quot;VASSAR COLLEGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Vassar College is a coeducational institution that was formerly a women's college, notable for its quality education and independence from Yale University."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;KINGSTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kingston is a location in New York where the New York State Constitution was adopted in 1777 after being drafted at White Plains."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;ALTON B. PARKER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alton B. Parker was a prominent figure who served as the chief judge of the New York Court of Appeals and was Roosevelt's opponent in the 1904 election."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="CORNELL UNIVERSITY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Cornell University is a prestigious Ivy League university located in Ithaca, New York, known for its research and educational excellence.&lt;SEP&gt;Cornell University is an Ivy League university located in Ithaca, New York, known for its selectivity and academic excellence.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b&lt;SEP&gt;chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;THOMAS E. DEWEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Thomas E. Dewey was the Governor of New York and ran against Franklin D. Roosevelt in the 1944 presidential election."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;JOSEPH BRANT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joseph Brant was a leader of the Mohawk tribe who played a significant role in the American Revolutionary War, siding with the British."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;THE JUILLIARD SCHOOL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Juilliard School is a prestigious performing arts institution in Manhattan, recognized globally for its music and dance programs."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="COLUMBIA UNIVERSITY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">Columbia University is a prestigious Ivy League university in Upper Manhattan, recognized for its rigorous academic programs.&lt;SEP&gt;Columbia University is an Ivy League university located in New York City, renowned for its academic programs and research contributions.</data>
+      <data key="d2">chunk-c79de17bda0e42cc1df8286f21ad085b&lt;SEP&gt;chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;EASTMAN SCHOOL OF MUSIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Eastman School of Music, part of the University of Rochester, is a leading professional music school, highly ranked in the U.S."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;SULLIVAN EXPEDITION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Sullivan Expedition of 1779 was a military campaign aimed at destroying Iroquois villages in retaliation for British-aligned attacks on settlers in New York."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;HILLARY CLINTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hillary Clinton is a former U.S. Senator and the first female presidential nominee from a major party in the 2016 election."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="ERIE CANAL">
+      <data key="d0">EVENT</data>
+      <data key="d1">The Erie Canal was a crucial infrastructure project that enhanced New York's development in the 19th century, connecting the Hudson River to Lake Erie.&lt;SEP&gt;The Erie Canal, opened in 1825, connected New York City to the Great Lakes, promoting commerce and facilitating transportation across western New York.</data>
+      <data key="d2">chunk-838b06e1bb5bba4ef46fed9cc60d1e7e&lt;SEP&gt;chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF THE STATE OF NEW YORK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of the State of New York oversees education standards from elementary to secondary schools in New York, ensuring educational quality."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;CONTINENTAL CONGRESS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Continental Congress was the governing body during the American Revolution, coordinating the colonies' efforts against British rule and leading to the Declaration of Independence."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;DONALD TRUMP&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Donald Trump is a businessman and real estate mogul who was the Republican nominee in the 2016 presidential election."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="IROQUOIS CONFEDERACY">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Iroquois Confederacy was a league of Native American nations, including the Mohawk and others, historically significant in the region that is now New York.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;NEW YORK STATE DEPARTMENT OF EDUCATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York State Education Department manages public schools and oversees educational policies and standardized testing."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;FEDERALIST PAPERS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Federalist Papers were a series of essays promoting the ratification of the United States Constitution, published in New York City newspapers during the ratification debate."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;UNITED NATIONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United Nations is an international organization headquartered in New York City, focusing on diplomacy and global cooperation since 1952."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="SYRACUSE">
+      <data key="d0">GEO</data>
+      <data key="d1">Syracuse is a city in central New York, known for its university and as a hub for culture and education.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;NEW YORK CITY DEPARTMENT OF EDUCATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York City Department of Education administers the public schools in New York City, focusing on education regulation and management."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;GEORGE WASHINGTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George Washington was the commander of the Continental Army and the first President of the United States, instrumental in leading the American colonies to victory during the Revolutionary War."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;BUFFALO BILLS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Buffalo Bills are a professional NFL team based in Orchard Park, New York, representing the state's football spirit."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="FINGER LAKES">
+      <data key="d0">GEO</data>
+      <data key="d1">The Finger Lakes is a region in New York known for its lakes, scenic beauty, and wine production, attracting many tourists.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;NEW YORK STATE DEPARTMENT OF TRANSPORTATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The NYSDOT is responsible for the development and operation of transportation systems, including highways and mass transit, within New York State."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;THIRTEEN COLONIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Thirteen Colonies were a group of British colonies on the east coast of North America that declared independence and formed the United States."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;NEW YORK YANKEES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York Yankees are a Major League Baseball team based in the Bronx, known for their history and success in the sport."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;PORT AUTHORITY OF NEW YORK AND NEW JERSEY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Port Authority is a bi-state agency managing the transportation infrastructure in the New York and New Jersey area, including airports and seaports."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="HUDSON RIVER">
+      <data key="d0">GEO</data>
+      <data key="d1">The Hudson River is a major waterway in New York State, flowing from north to south and serving as a historical and economic resource.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;GOVERNOR DEWITT CLINTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Governor DeWitt Clinton was a key political figure in New York known for promoting the Erie Canal, which transformed transportation in the state."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </node>
+    <node id="&quot;NEW YORK METS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York Mets are a professional baseball team based in Queens, representing the National League in Major League Baseball."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="BUFFALO">
+      <data key="d0">GEO</data>
+      <data key="d1">Buffalo is a city in western New York and is known for its proximity to Niagara Falls and for its historical significance in trade and industry.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;NEW YORK STATE DEPARTMENT OF MOTOR VEHICLES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The NYSDMV oversees the registration of vehicles, driver licensing, and vehicle inspections in the state of New York."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;HAMILTON GRANGE NATIONAL MEMORIAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hamilton Grange National Memorial preserves the home of Alexander Hamilton, a Caribbean immigrant and founding father of the United States."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;NATIONAL FOOTBALL LEAGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Football League is a professional American football league consisting of 32 teams, including the Buffalo Bills."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;ASIAN AMERICAN POPULATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Asian American population in New York has experienced notable growth, making it a vital part of the state's demographics."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="&quot;JOHN F. KENNEDY INTERNATIONAL AIRPORT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"John F. Kennedy International Airport is one of New York's primary airports, serving numerous international and domestic flights."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;ALEXANDER HAMILTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alexander Hamilton was an orphan who became a founding father of the United States and an associate of George Washington."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;NATIONAL HOCKEY LEAGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Hockey League is a professional ice hockey league in North America, comprising teams including the New York Rangers and Buffalo Sabres."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="CENTRAL PARK">
+      <data key="d0">GEO</data>
+      <data key="d1">Central Park is a large public park in New York City that serves as a green oasis and a vital recreation area for residents and tourists alike.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;THE GOVERNMENT OF NEW YORK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Government of New York is structured under the New York State Constitution, comprising executive, legislative, and judicial branches."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;HOME OF FRANKLIN D. ROOSEVELT NATIONAL HISTORIC SITE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Home of Franklin D. Roosevelt National Historic Site preserves Springwood estate, the birthplace and lifelong home of Franklin D. Roosevelt."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;NATIONAL BASKETBALL ASSOCIATION&quot;">
+      <data key="d0">|"ORGANIZATION"</data>
+      <data key="d1">"The National Basketball Association is a professional basketball league in North America, home to teams like the New York Knicks and Brooklyn Nets."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="NIAGARA FALLS">
+      <data key="d0">GEO</data>
+      <data key="d1">Niagara Falls is a world-renowned natural attraction located on the border between New York and Canada, known for its stunning beauty and tourism significance.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;NEW YORK STATE SENATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York State Senate is part of the bicameral legislature, responsible for creating laws in the state."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;FRANKLIN D. ROOSEVELT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Franklin D. Roosevelt was the 32nd President of the United States and a significant political figure associated with the 1944 presidential election."&lt;SEP&gt;"Franklin D. Roosevelt was the 32nd President of the United States, known for his leadership during the Great Depression and World War II."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532&lt;SEP&gt;chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;WINTER OLYMPICS&quot;">
+      <data key="d0">|"EVENT"</data>
+      <data key="d1">"The Winter Olympics are a major international sporting event, with New York hosting them twice, in 1932 and 1980, at Lake Placid."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Census Bureau is a government agency responsible for conducting the national census and collecting demographic data in the United States."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="&quot;NEW YORK STATE ASSEMBLY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York State Assembly is the lower chamber of the New York State Legislature, involved in lawmaking."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;LAKE ONTARIO NATIONAL MARINE SANCTUARY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lake Ontario National Marine Sanctuary is designated to protect historic shipwrecks and culturally significant areas in Lake Ontario."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;MIRACLE ON ICE&quot;">
+      <data key="d0">|"EVENT"</data>
+      <data key="d1">"The Miracle on Ice is a famous ice hockey match during the 1980 Winter Olympics, where the USA defeated the Soviet Union."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="HUDSON RIVER WATERFRONT">
+      <data key="d0">GEO</data>
+      <data key="d1">The Hudson River waterfront is a geographic location in New York, notable for its historical and cultural significance.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </node>
+    <node id="NEW YORK CITY">
+      <data key="d0">GEO</data>
+      <data key="d1">New York City is a major metropolis in the United States, known for its cultural, financial, and historical impact on both a national and global scale.&lt;SEP&gt;New York City is the largest city in the United States and a major cultural, financial, and media epicenter of the world.</data>
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf&lt;SEP&gt;chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;COURT OF APPEALS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Court of Appeals is the highest court of appeal in New York's Unified Court System, adjudicating important legal matters."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;NIAGARA FALLS NATIONAL HERITAGE AREA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Niagara Falls National Heritage Area encompasses several communities and historical sites, including Niagara Falls State Park."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;UNITED STATES OPEN TENNIS CHAMPIONSHIPS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The United States Open Tennis Championships is one of the four Grand Slam tennis tournaments held annually in New York."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="UNITED STATES CONSTITUTION">
+      <data key="d0">EVENT</data>
+      <data key="d1">The United States Constitution is the supreme law of the United States, ratified in 1788, which New York was among the first to adopt.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;UPPER WEST SIDE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Upper West Side is a neighborhood in Manhattan, New York City, renowned for its cultural institutions and residential buildings."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;SARATOGA NATIONAL HISTORICAL PARK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Saratoga National Historical Park preserves the site of the Battles of Saratoga, a significant American military victory in the Revolutionary War."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;BELMONT STAKES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Belmont Stakes is a prestigious horse race held annually in Belmont Park, a key part of the Triple Crown of Thoroughbred Racing."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"India is recognized as a major source of immigrants to New York, contributing to the state's cultural tapestry."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="&quot;ERIE CANAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Erie Canal is a historic canal in New York that facilitated trade and transportation between the Hudson River and Lake Erie."&lt;SEP&gt;"The Erie Canal, promoted by Governor DeWitt Clinton, was a significant infrastructure project initiated in 1817 and completed in 1825, connecting New York City to the Great Lakes and enhancing trade."</data>
+      <data key="d2">chunk-e43384eb82aa915ac480b509634425ad&lt;SEP&gt;chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;STONEWALL NATIONAL MONUMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Stonewall National Monument is the first national monument dedicated to LGBTQ rights, recognizing the site of the 1969 Stonewall Riots."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;CHAPPAQUA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chappaqua is a town in New York where Hillary Clinton resided during her 2016 presidential campaign, emphasizing its political significance."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="ALBANY">
+      <data key="d0">GEO</data>
+      <data key="d1">Albany is the capital of New York State located along the Hudson River, playing a significant role in the state's history.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;LONG ISLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Long Island is a region in New York known for having a substantial population, contributing to nearly 40% of the state's total residents."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="&quot;NEW YORK STATE THRUWAY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The New York State Thruway is a major toll highway system that facilitates road transportation across the state."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;THEODORE ROOSEVELT BIRTHPLACE NATIONAL HISTORIC SITE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Theodore Roosevelt Birthplace National Historic Site is the childhood home of President Theodore Roosevelt in New York City."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;ORCHARD PARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Orchard Park is a suburb of Buffalo, New York, known for being the home of the NFL's Buffalo Bills."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="ALGONQUIANS">
+      <data key="d0">ORGANIZATION</data>
+      <data key="d1">The Algonquians were a collection of Native American tribes, including the Wampanoag and Lenape, who lived in the New York area before European settlement.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;NEW YORK CITY SUBWAY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York City Subway is one of the largest and most comprehensive public transit systems in the world, serving various boroughs of New York City."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;JEFFERSON COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jefferson County is one of the counties in New York and is part of the area covered by the Lake Ontario National Marine Sanctuary."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;BRONX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Bronx is a borough of New York City, historically significant for being home to the New York Yankees and other cultural landmarks."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="NEW YORK">
+      <data key="d0">GEO</data>
+      <data key="d1">New York is a state in the Northeastern United States, known for its diverse geography and high population, with New York City being its largest urban center.&lt;SEP&gt;New York is a state in the northeastern U.S., known for its diverse wildlife, regions, and numerous parks, both state and national.&lt;SEP&gt;New York is a state in the northeastern U.S., notable for its diverse economy, cultural institutions, and educational facilities, including its role as a major exporter and producer of various goods.&lt;SEP&gt;New York is a state in the northeastern U.S., notable for its diverse population and significant political influence. It includes major cities such as New York City and has a complex governance structure including various local governmental bodies.</data>
+      <data key="d2">chunk-bd583a6dea6df953cee5027cb1105622&lt;SEP&gt;chunk-c79de17bda0e42cc1df8286f21ad085b&lt;SEP&gt;chunk-a0efcd467d117995a0b07ebc60dcbce1&lt;SEP&gt;chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York City is a historic location, significant in the American Revolution and the site of important events such as the Stamp Act Congress and the British military base."&lt;SEP&gt;"New York City is a major metropolitan area known for its significant economic footprint, including various industries such as media, technology, and finance."&lt;SEP&gt;"New York City is a major metropolitan area within New York, characterized by its significant cultural, economic, and climatic variations."&lt;SEP&gt;"New York City is a significant urban center, notable for hosting the United Nations and serving as a hub of international diplomacy."&lt;SEP&gt;"New York City is the largest city in the U.S., known for its diverse population and its iconic landmarks, including the World Trade Center."&lt;SEP&gt;"New York City is the largest city in the United States, comprising five boroughs and housing a substantial portion of New York's population."&lt;SEP&gt;"New York City is the most populous city in the United States with a diverse population and significant cultural relevance."</data>
+      <data key="d2">chunk-ee23622b581130c2c8bb7ecd197e652d&lt;SEP&gt;chunk-e43384eb82aa915ac480b509634425ad&lt;SEP&gt;chunk-808ad103f53f7e0d3b00829afca2036d&lt;SEP&gt;chunk-66d3ca7a69922f0839f41beadd55587a&lt;SEP&gt;chunk-bb04e8a947124037bbee9b1e5e045532&lt;SEP&gt;chunk-de74918511ae11ecd49bc50d34f28fcb&lt;SEP&gt;chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </node>
+    <node id="&quot;LONG ISLAND RAIL ROAD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Long Island Rail Road is a commuter railroad that connects New York City with Long Island, serving many suburban areas."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;OSWEGO COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oswego County is located in New York and is one of the counties adjacent to the Lake Ontario National Marine Sanctuary."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;STATEN ISLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Staten Island is a borough of New York City known for its quiet residential neighborhoods and parks, as well as its minor league baseball teams."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;HISPANIC AND LATINO AMERICAN POPULATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Hispanic and Latino American population in New York is rapidly growing, reflecting demographic shifts in the state."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="&quot;METRO-NORTH RAILROAD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Metro-North Railroad provides commuter rail service from New York City into its northern suburbs, known for its efficiency and frequent service."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;CAYUGA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cayuga County is situated in New York and is also adjacent to the Lake Ontario National Marine Sanctuary."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;NASSAU COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nassau County is a suburban county on Long Island in New York, home to various sports franchises including hockey teams."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;GREEK AMERICAN POPULATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Greek American population in New York represents one of the largest communities of Greeks in the United States."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="&quot;PORT AUTHORITY TRANS-HUDSON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Port Authority Trans-Hudson is a commuter rail service connecting New Jersey with New York City across the Hudson River."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;WAYNE COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wayne County is located in New York, bordering the Lake Ontario National Marine Sanctuary."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;COOPERSTOWN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cooperstown is famous for its association with baseball, being the site of the National Baseball Hall of Fame and Museum."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;AFRICAN AMERICAN POPULATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The African American Population in New York has seen significant changes, including an increase in numbers and migration trends."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="&quot;NEW JERSEY TRANSIT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"New Jersey Transit is a transportation agency providing bus, train, and light rail services in New Jersey and to the New York metropolitan area."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;WHEATFIELD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wheatfield is a community in New York that is within the Niagara Falls National Heritage Area."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;EAST RUTHERFORD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"East Rutherford is a borough in New Jersey, known for being home to the MetLife Stadium where the New York Giants and Jets play."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;PUERTO RICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Puerto Rico is a territory of the United States and a significant birthplace for many immigrants in New York."</data>
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="&quot;NIAGARA FRONTIER TRANSPORTATION AUTHORITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Niagara Frontier Transportation Authority operates public transportation in the Buffalo-Niagara region, including the Buffalo Metro Rail."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;NIAGARA FALLS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Niagara Falls is a city located in New York known for its famous waterfalls and historical significance within the heritage area."&lt;SEP&gt;"Niagara Falls is a natural attraction shared between New York and Ontario, known for its impressive waterfall and tourism importance."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532&lt;SEP&gt;chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </node>
+    <node id="&quot;FLUSHING MEADOWS–CORONA PARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Flushing Meadows–Corona Park is a large public park in Queens, New York, known for hosting the U.S. Open Tennis Championships."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;QUEENS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Queens is a borough of New York City and is known for being the birthplace and residence of several notable figures, including Donald Trump."&lt;SEP&gt;"Queens is a borough of New York City noted for its ethnic diversity and being home to the largest Asian American population in the state."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d&lt;SEP&gt;chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </node>
+    <node id="&quot;ROCHESTER SUBWAY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Rochester Subway was an early light-rail system in Rochester, New York, known for operating until 1956 before ceasing service."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;YOUNGSTOWN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Youngstown is a village in New York that is part of the Niagara Falls National Heritage Area."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;RED BULL ARENA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Red Bull Arena is located in Harrison, New Jersey, and is the home stadium of the New York Red Bulls Major League Soccer team."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="ROCHESTER">
+      <data key="d0">GEO</data>
+      <data key="d1">Rochester is a city in western New York, recognized for its historical importance in the industrial era and as a cultural center.</data>
+      <data key="d2">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </node>
+    <node id="&quot;AIRTRAIN JFK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"AirTrain JFK is a rail link that connects passengers from New York City to John F. Kennedy International Airport, integrating multiple transport modes."</data>
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+    </node>
+    <node id="&quot;LEWISTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lewiston is a town in New York included in the Niagara Falls National Heritage Area."</data>
+      <data key="d2">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </node>
+    <node id="&quot;METLIFE STADIUM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"MetLife Stadium is located in East Rutherford, New Jersey, and is home to the New York Giants and New York Jets."</data>
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </node>
+    <node id="&quot;ANNUAL NEW YORK CITY INDIA DAY PARADE&quot;">
+      <data key="d2">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+      <data key="d1">"The Annual New York City India Day Parade is held in New York City, celebrating cultural heritage."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;MAJOR LEAGUE BASEBALL&quot;">
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+      <data key="d1">"The New York Yankees compete in Major League Baseball, representing New York's baseball heritage."| "sports association, professional league"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CLIMATE CRISIS&quot;">
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+      <data key="d1">"Governors Island is planned to address the climate crisis, indicating its relevance in climate-related research and education."+"climate action, research significance"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CLIMATE CHANGE HAVENS&quot;">
+      <data key="d2">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+      <data key="d1">"Buffalo is noted as a climate change haven, reflecting its advantageous weather patterns."+"climate adaptation, regional characteristics"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;NEW YORK RANGERS&quot;">
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+      <data key="d1">"The New York Rangers are a professional team in the National Hockey League, representing New York in ice hockey."| "sports association, professional league"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;NEW YORK KNICKS&quot;">
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+      <data key="d1">"The New York Knicks are a professional basketball team in the National Basketball Association, representing New York."| "sports association, professional league"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;LAKE PLACID&quot;">
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+      <data key="d1">"Lake Placid has hosted the Winter Olympics twice, in 1932 and 1980, marking it as a significant location for this event."| "historical significance, sporting events"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="POWERS STREET MOSQUE">
+      <data key="d2">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+      <data key="d1">The Powers Street Mosque serves as a significant center for the Muslim community in New York, highlighting the presence of Islam in the city.</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;COLUMBIA UNIVERSITY&quot;">
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+      <data key="d1">"Barnard College has a formal affiliation with Columbia University, indicating a partnership in education."&lt;'relationship_keywords'</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;YALE UNIVERSITY&quot;">
+      <data key="d2">chunk-82542267cc0c3c389614966f5c177742</data>
+      <data key="d1">"Vassar College declined an offer to merge with Yale University, highlighting its independence in higher education."&lt;'relationship_keywords'</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;NATIONAL BASEBALL HALL OF FAME&quot;">
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+      <data key="d1">"The National Baseball Hall of Fame is located in Cooperstown, marking the town's significance in baseball history."| "cultural significance, sports history"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;U.S. OPEN TENNIS CHAMPIONSHIPS&quot;">
+      <data key="d2">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+      <data key="d1">"The U.S. Open Tennis Championships are held at Flushing Meadows–Corona Park, highlighting its role as a major sports venue."| "event location, tennis significance"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;NEW YORK STATE CONSTITUTION&quot;" target="&quot;GEORGE CLINTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"George Clinton played a crucial role in framing the New York State Constitution post-Revolution, establishing governance in the state."</data>
+      <data key="d5">"governance, constitutional development"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY FC&quot;" target="&quot;QUEENS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"New York City FC plans to build a new stadium in Queens, underscoring the borough's importance in soccer."| "future plans, sports development"</data>
+      <data key="d5">8</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;BUFFALO&quot;" target="&quot;CLIMATE CHANGE HAVENS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Buffalo is noted as a climate change haven, reflecting its advantageous weather patterns."+"climate adaptation, regional characteristics"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="CANADA" target="NEW YORK">
+      <data key="d3">8.0</data>
+      <data key="d4">New York exports a significant amount of goods to Canada, making it the largest foreign market for its exports, indicating strong economic ties.)</data>
+      <data key="d5">trade relations</data>
+      <data key="d6">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </edge>
+    <edge source="&quot;ELLIS ISLAND&quot;" target="&quot;SEPTEMBER 11 ATTACKS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Ellis Island as a museum of immigration serves as a historical context for the diverse population affected by the September 11 attacks."&lt;</data>
+      <data key="d5">"history, immigration"</data>
+      <data key="d6">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </edge>
+    <edge source="UNITED KINGDOM" target="NEW YORK">
+      <data key="d3">7.0</data>
+      <data key="d4">The United Kingdom imports a notable volume of goods from New York, showcasing an important trade relationship.)</data>
+      <data key="d5">trade relations</data>
+      <data key="d6">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </edge>
+    <edge source="&quot;SEPTEMBER 11 ATTACKS&quot;" target="&quot;TWIN TOWERS&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The Twin Towers were directly impacted by the September 11 attacks, resulting in their collapse."&lt;</data>
+      <data key="d5">"terrorism, destruction"</data>
+      <data key="d6">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </edge>
+    <edge source="&quot;SEPTEMBER 11 ATTACKS&quot;" target="&quot;NATIONAL SEPTEMBER 11 MEMORIAL &amp; MUSEUM&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The National September 11 Memorial &amp; Museum honors the victims of the September 11 attacks, serving as a place of remembrance."&lt;</data>
+      <data key="d5">"remembrance, honor"</data>
+      <data key="d6">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </edge>
+    <edge source="&quot;SEPTEMBER 11 ATTACKS&quot;" target="&quot;ONE WORLD TRADE CENTER&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"One World Trade Center was built as part of the rebuilding efforts following the September 11 attacks, symbolizing resilience."&lt;</data>
+      <data key="d5">"rebuilding, resilience"</data>
+      <data key="d6">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </edge>
+    <edge source="SWITZERLAND" target="NEW YORK">
+      <data key="d3">7.0</data>
+      <data key="d4">Switzerland is recognized as another vital market for New York exports, illustrating international trade dynamics.)</data>
+      <data key="d5">trade relations</data>
+      <data key="d6">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </edge>
+    <edge source="&quot;TWIN TOWERS&quot;" target="&quot;WORLD TRADE CENTER&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Twin Towers were part of the World Trade Center complex, which faced destruction during the September 11 attacks."&lt;</data>
+      <data key="d5">"complex, destruction"</data>
+      <data key="d6">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </edge>
+    <edge source="ISRAEL" target="NEW YORK">
+      <data key="d3">7.0</data>
+      <data key="d4">Israel's status as a key export market for New York highlights the state's role in global commerce.)</data>
+      <data key="d5">trade relations</data>
+      <data key="d6">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </edge>
+    <edge source="&quot;WORLD TRADE CENTER&quot;" target="&quot;LOWER MANHATTAN&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The World Trade Center is located in Lower Manhattan, highlighting the geographic significance of the attacks."&lt;</data>
+      <data key="d5">"location, significance"</data>
+      <data key="d6">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </edge>
+    <edge source="HONG KONG" target="NEW YORK">
+      <data key="d3">7.0</data>
+      <data key="d4">Hong Kong's presence as a significant market for New York's exports reflects the interconnected global economy.)</data>
+      <data key="d5">trade relations</data>
+      <data key="d6">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </edge>
+    <edge source="CITY UNIVERSITY OF NEW YORK" target="NEW YORK">
+      <data key="d3">8.0</data>
+      <data key="d4">The City University of New York connects diverse communities and aids in the education of over 275,000 students, key for New York's social fabric.)</data>
+      <data key="d5">education influence</data>
+      <data key="d6">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </edge>
+    <edge source="STATE UNIVERSITY OF NEW YORK" target="NEW YORK">
+      <data key="d3">9.0</data>
+      <data key="d4">The State University of New York (SUNY) system strengthens New York's educational framework and plays a critical role in workforce development.)</data>
+      <data key="d5">education influence</data>
+      <data key="d6">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </edge>
+    <edge source="&quot;HURRICANE SANDY&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Hurricane Sandy significantly impacted New York City, causing severe damage and disruption."&lt;</data>
+      <data key="d5">"disaster, impact"</data>
+      <data key="d6">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </edge>
+    <edge source="THE JUILLIARD SCHOOL" target="NEW YORK">
+      <data key="d3">10.0</data>
+      <data key="d4">The Juilliard School adds to New York's cultural landscape by training some of the world’s most talented musicians and performers.)</data>
+      <data key="d5">cultural influence</data>
+      <data key="d6">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </edge>
+    <edge source="&quot;COVID-19 PANDEMIC&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The COVID-19 pandemic severely affected New York City, leading to public health responses and significant changes in daily life."&lt;</data>
+      <data key="d5">"public health, crisis"</data>
+      <data key="d6">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </edge>
+    <edge source="&quot;COVID-19 PANDEMIC&quot;" target="&quot;GOVERNOR ANDREW CUOMO&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Governor Andrew Cuomo played a crucial role in managing New York's response to the COVID-19 pandemic."&lt;</data>
+      <data key="d5">"leadership, crisis management"</data>
+      <data key="d6">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </edge>
+    <edge source="&quot;COVID-19 PANDEMIC&quot;" target="&quot;MAYOR BILL DE BLASIO&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Mayor Bill de Blasio's administration implemented various measures to combat the COVID-19 pandemic in New York City."&lt;</data>
+      <data key="d5">"leadership, public health"</data>
+      <data key="d6">chunk-076db3fb7e780bd654f046dee25ccd43</data>
+    </edge>
+    <edge source="&quot;IROQUOIS CONFEDERACY&quot;" target="&quot;ALGONQUIAN TRIBES&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Iroquois Confederacy waged campaigns against the Algonquian tribes, influenced by a desire for control over territory."&lt;</data>
+      <data key="d5">&gt;"conflict, territorial control"</data>
+      <data key="d6">chunk-7f661486e103caba7768552047f5c44e</data>
+    </edge>
+    <edge source="&quot;IROQUOIS CONFEDERACY&quot;" target="&quot;TUSCARORA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Tuscarora joined the Iroquois Confederacy, indicating a relationship of alliance and support among the tribes."&lt;</data>
+      <data key="d5">&gt;"alliance, tribal support"</data>
+      <data key="d6">chunk-7f661486e103caba7768552047f5c44e</data>
+    </edge>
+    <edge source="&quot;IROQUOIS CONFEDERACY&quot;" target="&quot;SENECA&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"The Seneca are one of the key tribes within the Iroquois Confederacy, playing an essential role in its operations."&lt;&lt;SEP&gt;"The Seneca played a significant role in the Iroquois Confederacy's military engagements, particularly during the American Revolution."&lt;</data>
+      <data key="d5">&gt;"internal tribes, coalition"&lt;SEP&gt;&gt;"military role, alliance"</data>
+      <data key="d6">chunk-7f661486e103caba7768552047f5c44e</data>
+    </edge>
+    <edge source="&quot;IROQUOIS CONFEDERACY&quot;" target="&quot;FRENCH AND INDIAN WAR&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Iroquois involvement in the French and Indian War influenced their territorial dynamics and alliances."&lt;</data>
+      <data key="d5">&gt;"historical conflict, alliances"</data>
+      <data key="d6">chunk-7f661486e103caba7768552047f5c44e</data>
+    </edge>
+    <edge source="&quot;IROQUOIS CONFEDERACY&quot;" target="&quot;AMERICAN REVOLUTION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Iroquois fought for both the British and Americans during the American Revolution, reflecting their complex political roles."&lt;</data>
+      <data key="d5">&gt;"political roles, dual allegiance"</data>
+      <data key="d6">chunk-7f661486e103caba7768552047f5c44e</data>
+    </edge>
+    <edge source="&quot;IROQUOIS CONFEDERACY&quot;" target="&quot;MASCOUTEN&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Iroquois Confederacy offered shelter to the Mascouten refugees, reflecting the intertribal relationships and conflicts."&lt;</data>
+      <data key="d5">&gt;"intertribal relations, refuge"</data>
+      <data key="d6">chunk-7f661486e103caba7768552047f5c44e</data>
+    </edge>
+    <edge source="&quot;IROQUOIS CONFEDERACY&quot;" target="&quot;ERIE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Iroquois Confederacy engaged in military campaigns against the Erie tribe, showcasing territorial conflicts."&lt;</data>
+      <data key="d5">&gt;"military conflict, territorial control"</data>
+      <data key="d6">chunk-7f661486e103caba7768552047f5c44e</data>
+    </edge>
+    <edge source="&quot;IROQUOIS CONFEDERACY&quot;" target="&quot;CHONNONTON&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Iroquois Confederacy's campaigns included actions against the Chonnonton, indicating conflict and competition for resources."&lt;</data>
+      <data key="d5">&gt;"conflict, resources"</data>
+      <data key="d6">chunk-7f661486e103caba7768552047f5c44e</data>
+    </edge>
+    <edge source="&quot;IROQUOIS&quot;" target="&quot;1609 VOYAGE OF HENRY HUDSON&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Hudson's voyage initiated European interest in the Iroquois region, leading to increased trading and conflict."&lt;</data>
+      <data key="d5">&gt;"exploration, trade"</data>
+      <data key="d6">chunk-7f661486e103caba7768552047f5c44e</data>
+    </edge>
+    <edge source="&quot;LAKE CHAMPLAIN&quot;" target="&quot;VERMONT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lake Champlain is significant in defining the border and ecological interactions between New York and Vermont."+"ecological significance, border definition"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;LENAPE&quot;" target="&quot;WILLIAM PENN&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Lenape formed a close relationship with William Penn, who advocated for their rights and wellbeing during colonization."&lt;</data>
+      <data key="d5">&gt;"colonial relations, advocacy"</data>
+      <data key="d6">chunk-7f661486e103caba7768552047f5c44e</data>
+    </edge>
+    <edge source="&quot;LENAPE&quot;" target="&quot;NANTICOKE&quot;">
+      <data key="d3">13.0</data>
+      <data key="d4">"Both the Lenape and Nanticoke were Native American tribes involved in territorial movements and adjustments in response to European pressures."&lt;&lt;SEP&gt;"The Lenape and Nanticoke had overlapping territories and historical interactions, especially after forced migrations."&lt;</data>
+      <data key="d5">&gt;"overlapping territories, interactions"&lt;SEP&gt;&gt;"territorial adjustment, migration"</data>
+      <data key="d6">chunk-7f661486e103caba7768552047f5c44e</data>
+    </edge>
+    <edge source="&quot;FRENCH AND INDIAN WAR&quot;" target="&quot;SUSQUEHANNOCK&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Susquehannock were significantly affected by the French and Indian War, which exacerbated their decline."&lt;</data>
+      <data key="d5">&gt;"impact, conflict"</data>
+      <data key="d6">chunk-7f661486e103caba7768552047f5c44e</data>
+    </edge>
+    <edge source="&quot;RHODE ISLAND&quot;" target="&quot;NEW YORK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York shares a water border with Rhode Island through Long Island Sound, indicating overlapping maritime interests."+"maritime boundaries, coastal connection"</data>
+      <data key="d5">"7"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;VERMONT&quot;" target="&quot;NEW YORK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York and Vermont share Lake Champlain, creating a geographical and recreational connection."+"water body, geographical connection"</data>
+      <data key="d5">"7"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;QUEBEC&quot;" target="&quot;NEW YORK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York shares a border with Quebec, illustrating the geopolitical dynamics between the U.S. and Canada."+"border relationship, geopolitical dynamics"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;SILICON ALLEY&quot;" target="&quot;VENTURE CAPITAL INVESTMENT&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Venture Capital Investment in Silicon Alley reflects the robust growth of tech startups and the entrepreneurial ecosystem in New York City."&lt;</data>
+      <data key="d5">"financial growth, startup ecosystem"&lt;</data>
+      <data key="d6">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </edge>
+    <edge source="&quot;SILICON ALLEY&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Silicon Alley represents New York City's growing high technology sector, showcasing the city's innovation and entrepreneurship."&lt;</data>
+      <data key="d5">"technology ecosystem, entrepreneurship"&lt;</data>
+      <data key="d6">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </edge>
+    <edge source="&quot;CORNELL UNIVERSITY&quot;" target="&quot;TECHNION-ISRAEL INSTITUTE OF TECHNOLOGY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Cornell University and Technion collaborate to establish a graduate school aimed at enhancing New York City's technology landscape."&lt;</data>
+      <data key="d5">"academic collaboration, technology development"&lt;</data>
+      <data key="d6">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </edge>
+    <edge source="&quot;GLOBALFOUNDRIES&quot;" target="&quot;TECH VALLEY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"GlobalFoundries' move to Tech Valley signifies the area's emerging semiconductor manufacturing capabilities."&lt;</data>
+      <data key="d5">"industry relocation, economic growth"&lt;</data>
+      <data key="d6">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </edge>
+    <edge source="&quot;MANHATTAN&quot;" target="&quot;OFFICE SPACE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The availability of Office Space in Manhattan underscores the city's status as a central business hub in the United States."&lt;</data>
+      <data key="d5">"business infrastructure, economic significance"&lt;</data>
+      <data key="d6">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </edge>
+    <edge source="&quot;NEW YORK STATE EMPIRE STATE DEVELOPMENT&quot;" target="&quot;I LOVE NEW YORK&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The New York State Empire State Development utilizes the I Love New York campaign to enhance tourism and promote the state."&lt;</data>
+      <data key="d5">"tourism promotion, state branding"&lt;</data>
+      <data key="d6">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </edge>
+    <edge source="&quot;BROADWAY LEAGUE&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Broadway League's reporting on Broadway shows illustrates the entertainment industry's impact on New York City's economy."&lt;</data>
+      <data key="d5">"entertainment industry, economic contribution"&lt;</data>
+      <data key="d6">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </edge>
+    <edge source="&quot;BIOTECHNOLOGY&quot;" target="&quot;BROOKHAVEN NATIONAL LABORATORY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Brookhaven National Laboratory plays a crucial role in advancing biotechnology research and development on Long Island."&lt;</data>
+      <data key="d5">"research contribution, science and technology"&lt;</data>
+      <data key="d6">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </edge>
+    <edge source="&quot;BIOTECHNOLOGY&quot;" target="&quot;LONG ISLAND&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The biotechnology industry thrives on Long Island, significantly impacting the local economy and employment opportunities."&lt;</data>
+      <data key="d5">"industry presence, economic impact"&lt;</data>
+      <data key="d6">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </edge>
+    <edge source="&quot;MASSACHUSETTS&quot;" target="&quot;NEW YORK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York has a land border with Massachusetts, indicating regional connectivity and interaction."+"land border, regional interaction"</data>
+      <data key="d5">"7"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="STONEWALL 50" target="NEW YORK CITY">
+      <data key="d3">9.0</data>
+      <data key="d4">Stonewall 50 took place in New York City, highlighting the city's key role in LGBTQ+ history and pride celebrations.</data>
+      <data key="d5">LGBTQ+ pride, historical significance</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="&quot;NEW JERSEY&quot;" target="&quot;NEW YORK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York shares a land border with New Jersey, facilitating trade, travel, and cultural exchanges."+"trade relations, cultural exchange"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="BROOKLYN LIBERATION MARCH" target="NEW YORK CITY">
+      <data key="d3">8.0</data>
+      <data key="d4">The Brooklyn Liberation March was conducted in New York City, emphasizing the city as a focal point for significant demonstrations supporting transgender rights.</data>
+      <data key="d5">transgender rights, social activism</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="&quot;ARTIFICIAL INTELLIGENCE (AI)&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"New York City's initiatives focused on Artificial Intelligence illustrate its commitment to being at the forefront of technological development."&lt;</data>
+      <data key="d5">"technological innovation, government regulation"&lt;</data>
+      <data key="d6">chunk-ee23622b581130c2c8bb7ecd197e652d</data>
+    </edge>
+    <edge source="&quot;PENNSYLVANIA&quot;" target="&quot;NEW YORK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York shares a land border with Pennsylvania, influencing economic and social interactions."+"border relations, economic interaction"</data>
+      <data key="d5">"7"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="PEW RESEARCH CENTER" target="NEW YORK CITY">
+      <data key="d3">7.0</data>
+      <data key="d4">The Pew Research Center conducted studies on the religious demographics of New York City, reflecting its diverse population and cultural aspects.</data>
+      <data key="d5">religious demographics, social research</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="&quot;HUDSON RIVER&quot;" target="&quot;NEW YORK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Hudson River is a major geographic feature in New York, influencing its drainage systems and ecology."+"geographic feature, ecological influence"</data>
+      <data key="d5">"9"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="PUBLIC RELIGION RESEARCH INSTITUTE" target="NEW YORK CITY">
+      <data key="d3">7.0</data>
+      <data key="d4">The Public Religion Research Institute also researched the spiritual climate of New York City, offering insights into the changing nature of its religious landscape.</data>
+      <data key="d5">cultural studies, religious trends</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="ROMAN CATHOLIC CHURCH" target="ARCHDIOCESE OF NEW YORK">
+      <data key="d3">8.0</data>
+      <data key="d4">The Roman Catholic Church is represented through the Archdiocese of New York, indicating its organizational structure within the city.</data>
+      <data key="d5">religious organization, hierarchy</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;NEW YORK STATE DEPARTMENT OF TRANSPORTATION&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The NYSDOT is responsible for managing transport infrastructure within New York State, indicating a direct operational connection."&lt;'relationship_keywords'</data>
+      <data key="d5">'transportation infrastructure'</data>
+      <data key="d6">chunk-82542267cc0c3c389614966f5c177742</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;PORT AUTHORITY OF NEW YORK AND NEW JERSEY&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The Port Authority manages transportation assets within New York, providing comprehensive services in the region."&lt;'relationship_keywords'</data>
+      <data key="d5">'regional transportation'</data>
+      <data key="d6">chunk-82542267cc0c3c389614966f5c177742</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;NEW YORK STATE DEPARTMENT OF MOTOR VEHICLES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The DMV administers vehicle registration and driver licensing across New York state, showing its vital role in local governance."&lt;'relationship_keywords'</data>
+      <data key="d5">'vehicle services'</data>
+      <data key="d6">chunk-82542267cc0c3c389614966f5c177742</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;NIAGARA FALLS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Niagara Falls is a prominent natural attraction shared between New York and Ontario, driving tourism and natural resource management."+"tourism, natural resources"</data>
+      <data key="d5">"9"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;DELAWARE RIVER BASIN COMPACT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Delaware River Basin Compact involves New York in the governance of shared water resources, highlighting regional cooperation."+"resource management, regional cooperation"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;LAKE ERIE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York shares a border with Lake Erie, one of the Great Lakes, affecting its economy and recreation."+"border relationship, economic influence"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;LAKE ONTARIO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York borders Lake Ontario, which contributes to its tourism and fishing industries."+"recreational resource, tourism"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;ADIRONDACKS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Adirondacks is an important recreational and ecological region within New York, supporting tourism and conservation."+"recreation, conservation"</data>
+      <data key="d5">"9"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;CATSKILLS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Catskills region is notable for its landscapes and recreational activities that attract visitors to New York."+"tourism, natural attraction"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;TUG HILL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tug Hill is recognized for its heavy snowfall, which influences weather patterns and outdoor activities in New York."+"weather influence, outdoor recreation"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;EASTERN BLUEBIRD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The eastern bluebird represents New York's rich avian biodiversity and its role in the ecosystem."+"biodiversity, state symbol"</data>
+      <data key="d5">"7"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;BALD EAGLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The bald eagle's presence in New York signifies successful wildlife conservation efforts."+"wildlife recovery, conservation"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;CENSUS BUREAU&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Census Bureau provides demographic data for New York, influencing state governance and policy decisions."</data>
+      <data key="d5">"data collection, governance"</data>
+      <data key="d6">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;ENVIRONMENTAL CONCERNS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Environmental concerns in New York are shaped by urbanization, climate change, and biodiversity issues."+"sustainability, ecological challenges"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"New York City is the most populous city within the state of New York, symbolizing urban concentration."</data>
+      <data key="d5">"urban population, significance"</data>
+      <data key="d6">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;THE JUILLIARD SCHOOL&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Juilliard School is located in New York, contributing to the city's reputation for excellence in performing arts education."&lt;'relationship_keywords'</data>
+      <data key="d5">'education, reputation'</data>
+      <data key="d6">chunk-82542267cc0c3c389614966f5c177742</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;HUMIDITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Humidity levels influence the climate and weather patterns throughout New York, especially in urban areas."+"climate influence, weather patterns"</data>
+      <data key="d5">"7"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;EASTMAN SCHOOL OF MUSIC&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Eastman School of Music is renowned nationally and contributes to New York's educational landscape."&lt;'relationship_keywords'</data>
+      <data key="d5">'education, reputation'</data>
+      <data key="d6">chunk-82542267cc0c3c389614966f5c177742</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;URBANIZATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Urbanization in New York affects its natural landscapes and ecosystems, prompting environmental concerns."+"development, ecological impact"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;LONG ISLAND&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Long Island is part of the state of New York, contributing a significant portion of the state's population."</data>
+      <data key="d5">"population contribution, geographic relationship"</data>
+      <data key="d6">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </edge>
+    <edge source="&quot;KÖPPEN CLIMATE CLASSIFICATION&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York City's climate is categorized under the Köppen system, showing its climatic variations compared to the rest of the state."+"climate categorization, urban climate"</data>
+      <data key="d5">"7"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;GOVERNORS ISLAND&quot;" target="&quot;CLIMATE CRISIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Governors Island is planned to address the climate crisis, indicating its relevance in climate-related research and education."+"climate action, research significance"</data>
+      <data key="d5">"8"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="WALL STREET" target="NEW YORK CITY">
+      <data key="d3">10.0</data>
+      <data key="d4">Wall Street is a vital part of New York City's identity as the leading financial center, influencing global markets.</data>
+      <data key="d5">economic power, financial center</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="WALL STREET" target="NEW YORK STOCK EXCHANGE">
+      <data key="d3">9.0</data>
+      <data key="d4">The New York Stock Exchange is located on Wall Street, and serves as a core component of the financial activities carried out in the area.</data>
+      <data key="d5">financial market, trading</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="WALL STREET" target="NASDAQ">
+      <data key="d3">8.0</data>
+      <data key="d4">Nasdaq operates in close proximity to Wall Street, further solidifying the area as a major hub for financial transactions.</data>
+      <data key="d5">financial transactions, stock trading</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="UNITED NATIONS" target="NEW YORK CITY">
+      <data key="d3">9.0</data>
+      <data key="d4">New York City hosts the headquarters of the United Nations, marking its significance as a global center for diplomacy and international relations.)</data>
+      <data key="d5">global significance</data>
+      <data key="d6">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </edge>
+    <edge source="UNITED NATIONS" target="COLUMBIA UNIVERSITY">
+      <data key="d3">7.0</data>
+      <data key="d4">Columbia University, located in New York City, engages with the United Nations through research and global studies.)</data>
+      <data key="d5">academic and international relations</data>
+      <data key="d6">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </edge>
+    <edge source="GREAT LAKES" target="NEW YORK">
+      <data key="d3">8.0</data>
+      <data key="d4">New York shares its northwestern border with the Great Lakes, influencing its economy and natural resources.)</data>
+      <data key="d5">geographical significance</data>
+      <data key="d6">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </edge>
+    <edge source="&quot;SONS OF LIBERTY&quot;" target="&quot;STAMP ACT CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Sons of Liberty were influential in organizing the Stamp Act Congress to protest against British policies, marking a pivotal moment in the American Revolution."</data>
+      <data key="d5">"advocacy, protest"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="CHRISTIANITY" target="JUDAISM">
+      <data key="d3">7.0</data>
+      <data key="d4">Christianity and Judaism coexist in New York, with both religious communities historically influencing each other's cultures and practices.</data>
+      <data key="d5">religious coexistence, cultural influence</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="&quot;STAMP ACT CONGRESS&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York City was the location of the Stamp Act Congress, making it central to the early revolutionary efforts against British rule."</data>
+      <data key="d5">"historical significance, location"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="JUDAISM" target="ZOROASTRIANISM">
+      <data key="d3">6.0</data>
+      <data key="d4">Judaism and Zoroastrianism represent two distinct religious traditions present in New York, showcasing the state's diverse beliefs.</data>
+      <data key="d5">religious diversity, cultural representation</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="&quot;DECLARATION OF INDEPENDENCE&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York City's role in endorsing the Declaration of Independence was critical to the collective efforts of the colonies towards independence."</data>
+      <data key="d5">"declaration, endorsement"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="&quot;DECLARATION OF INDEPENDENCE&quot;" target="&quot;CONTINENTAL CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Continental Congress was responsible for adopting the Declaration of Independence, a defining document in American history."</data>
+      <data key="d5">"government, independence declaration"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="&quot;GOVERNOR'S ISLAND PROJECT&quot;" target="&quot;CLIMATE CRISIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Governor's Island Project is a direct response to the climate crisis, aiming to establish a leading research center."+"climate action, research initiative"</data>
+      <data key="d5">"9"</data>
+      <data key="d6">chunk-de74918511ae11ecd49bc50d34f28fcb</data>
+    </edge>
+    <edge source="&quot;HARLEM&quot;" target="&quot;AFRICAN AMERICAN POPULATION&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Harlem is historically significant for its African American community and cultural contributions."</data>
+      <data key="d5">"cultural significance, community"</data>
+      <data key="d6">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </edge>
+    <edge source="ISLAM" target="POWERS STREET MOSQUE">
+      <data key="d3">8.0</data>
+      <data key="d4">The Powers Street Mosque serves as a significant center for the Muslim community in New York, highlighting the presence of Islam in the city.</data>
+      <data key="d5">mosque, religious center</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="&quot;GEORGE CLINTON&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"George Clinton as the first Governor operated within New York City during a critical time in its revolutionary history, influencing state governance."</data>
+      <data key="d5">"governance, leadership"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="&quot;BEDFORD-STUYVESANT&quot;" target="&quot;AFRICAN AMERICAN POPULATION&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Bedford-Stuyvesant is recognized for having the largest African American population in the U.S."</data>
+      <data key="d5">"demographic prominence, community"</data>
+      <data key="d6">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </edge>
+    <edge source="BUDDHISM" target="HINDUISM">
+      <data key="d3">7.0</data>
+      <data key="d4">Buddhism and Hinduism both contribute to New York's diverse religious tapestry, attracting followers from various backgrounds.</data>
+      <data key="d5">spiritual diversity, religious practices</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="&quot;BATTLE OF LONG ISLAND&quot;" target="&quot;BRITISH ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Battle of Long Island involved the British Army and marked a significant military engagement in New York, demonstrating the conflict's intensity."</data>
+      <data key="d5">"military engagement, conflict"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="&quot;BATTLE OF LONG ISLAND&quot;" target="&quot;CONTINENTAL ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Continental Army faced the British Army in the Battle of Long Island, which was one of the first large-scale battles of the Revolutionary War."</data>
+      <data key="d5">"military conflict, participation"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="&quot;BRITISH ARMY&quot;" target="&quot;IROQUOIS NATIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Iroquois Nations allied with the British Army during the Revolutionary War, influencing the conflict dynamics in New York."</data>
+      <data key="d5">"alliance, wartime strategy"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="KING PHILIP'S WAR" target="IROQUOIS CONFEDERACY">
+      <data key="d3">5.0</data>
+      <data key="d4">The Iroquois Confederacy was involved in the dynamics of King Philip's War, reflecting intertribal relations during conflicts in the 17th century.)</data>
+      <data key="d5">historical conflict</data>
+      <data key="d6">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </edge>
+    <edge source="&quot;CONTINENTAL ARMY&quot;" target="&quot;GEORGE WASHINGTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"George Washington led the Continental Army during the American Revolutionary War, shaping the military strategy and ultimate success of the colonies."</data>
+      <data key="d5">"military leadership, key figure"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="NATIVE AMERICAN RELIGIONS" target="NEW AGE MOVEMENTS">
+      <data key="d3">5.0</data>
+      <data key="d4">New Age movements and Native American religions represent alternative spiritual practices that coexist within New York's broader religious context.</data>
+      <data key="d5">spiritual syncretism, alternative beliefs</data>
+      <data key="d6">chunk-6c6b23ce80832872a180efe17a435aaf</data>
+    </edge>
+    <edge source="&quot;IROQUOIS NATIONS&quot;" target="&quot;JOSEPH BRANT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joseph Brant was a prominent leader within the Iroquois Nations, advocating for their interests during the American Revolutionary War."</data>
+      <data key="d5">"leadership, alliance"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="&quot;IROQUOIS NATIONS&quot;" target="&quot;SULLIVAN EXPEDITION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Sullivan Expedition targeted the Iroquois Nations, reflecting the tensions and conflicts that affected Native American tribes during the Revolutionary War."</data>
+      <data key="d5">"military conflict, indigenous impact"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="&quot;GEORGE W. BUSH&quot;" target="&quot;THE STATE OF NEW YORK&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The State of New York served as a significant backdrop in the 2000 elections being the home state for both major party nominees."| "home state, election significance"</data>
+      <data key="d5">8</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;GEORGE W. BUSH&quot;" target="&quot;AL GORE&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"George W. Bush and Al Gore were the major party nominees for the 2000 presidential election, representing two political factions."| "presidential election, political rivalry"</data>
+      <data key="d5">10</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;TREATY OF WESTMINSTER&quot;" target="&quot;TREATY OF PARIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Treaty of Westminster and Treaty of Paris are both significant agreements that followed the American Revolutionary War, addressing territorial and governance issues."</data>
+      <data key="d5">"treaties, post-war agreements"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="&quot;AL GORE&quot;" target="&quot;THE STATE OF NEW YORK&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The State of New York served as a significant backdrop in the 2000 elections being the home state for both major party nominees."| "home state, election significance"</data>
+      <data key="d5">8</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;THE STATE OF NEW YORK&quot;" target="&quot;THEODORE ROOSEVELT&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The State of New York is historically significant as the home state of Theodore Roosevelt, who was a major political figure in the 1904 election."| "historical significance, political legacy"</data>
+      <data key="d5">9</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;THE STATE OF NEW YORK&quot;" target="&quot;FRANKLIN D. ROOSEVELT&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Franklin D. Roosevelt's political career began in New York, where he served as Governor before becoming President."| "political career, governance"</data>
+      <data key="d5">9</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;BARNARD COLLEGE&quot;" target="&quot;COLUMBIA UNIVERSITY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Barnard College has a formal affiliation with Columbia University, indicating a partnership in education."&lt;'relationship_keywords'</data>
+      <data key="d5">'academic affiliation'</data>
+      <data key="d6">chunk-82542267cc0c3c389614966f5c177742</data>
+    </edge>
+    <edge source="&quot;VASSAR COLLEGE&quot;" target="&quot;YALE UNIVERSITY&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Vassar College declined an offer to merge with Yale University, highlighting its independence in higher education."&lt;'relationship_keywords'</data>
+      <data key="d5">'independence'</data>
+      <data key="d6">chunk-82542267cc0c3c389614966f5c177742</data>
+    </edge>
+    <edge source="CORNELL UNIVERSITY" target="NEW YORK">
+      <data key="d3">9.0</data>
+      <data key="d4">Cornell University contributes to New York's reputation as a leading educational state and helps produce a skilled workforce.)</data>
+      <data key="d5">education influence</data>
+      <data key="d6">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </edge>
+    <edge source="CORNELL UNIVERSITY" target="FINGER LAKES">
+      <data key="d3">8.0</data>
+      <data key="d4">Cornell University is located near the Finger Lakes region, contributing to research and education related to the area's environment.)</data>
+      <data key="d5">academic significance</data>
+      <data key="d6">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </edge>
+    <edge source="COLUMBIA UNIVERSITY" target="NEW YORK">
+      <data key="d3">9.0</data>
+      <data key="d4">Columbia University enhances New York's status as a center for higher education and research.)</data>
+      <data key="d5">education influence</data>
+      <data key="d6">chunk-c79de17bda0e42cc1df8286f21ad085b</data>
+    </edge>
+    <edge source="&quot;HILLARY CLINTON&quot;" target="&quot;CHAPPAQUA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Hillary Clinton is notably associated with Chappaqua, where she resides, emphasizing its significance during her campaign."| "personal residence, political significance"</data>
+      <data key="d5">9</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="ERIE CANAL" target="NEW YORK">
+      <data key="d3">8.0</data>
+      <data key="d4">The construction of the Erie Canal was essential to New York's economic development, illustrating its historical importance in the state's growth.)</data>
+      <data key="d5">economic development</data>
+      <data key="d6">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </edge>
+    <edge source="&quot;DONALD TRUMP&quot;" target="&quot;QUEENS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Donald Trump is a native of Queens, New York, highlighting his connection to the borough as a significant part of his identity."| "personal background, geographic significance"</data>
+      <data key="d5">8</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="IROQUOIS CONFEDERACY" target="ALGONQUIANS">
+      <data key="d3">6.0</data>
+      <data key="d4">The Iroquois Confederacy and Algonquians were both native groups that interacted and competed for territory in the region of New York.)</data>
+      <data key="d5">intertribal relations</data>
+      <data key="d6">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </edge>
+    <edge source="&quot;NEW YORK STATE DEPARTMENT OF EDUCATION&quot;" target="&quot;NEW YORK CITY DEPARTMENT OF EDUCATION&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The New York State Education Department oversees public schools including those in New York City, coordinating educational standards."&lt;'relationship_keywords'</data>
+      <data key="d5">'education oversight'</data>
+      <data key="d6">chunk-82542267cc0c3c389614966f5c177742</data>
+    </edge>
+    <edge source="&quot;FEDERALIST PAPERS&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Federalist Papers were published in New York City, highlighting the city’s role as a center for political discourse during the ratification of the Constitution."</data>
+      <data key="d5">"political discourse, contributions"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="&quot;UNITED NATIONS&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"New York City is known as the location of the United Nations headquarters, playing a crucial role in international diplomacy."| "international diplomacy, global governance"</data>
+      <data key="d5">10</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;BUFFALO BILLS&quot;" target="&quot;NATIONAL FOOTBALL LEAGUE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Buffalo Bills are a part of the National Football League, representing New York in professional football."| "sports association, professional league"</data>
+      <data key="d5">9</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;BUFFALO BILLS&quot;" target="&quot;ORCHARD PARK&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Buffalo Bills are based in Orchard Park, showcasing the location's significance as a sports hub."| "local significance, sports franchise"</data>
+      <data key="d5">9</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="FINGER LAKES" target="ROCHESTER">
+      <data key="d3">6.0</data>
+      <data key="d4">Rochester serves as a gateway to the Finger Lakes region, known for its wineries and natural beauty.)</data>
+      <data key="d5">tourism, regional connection</data>
+      <data key="d6">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </edge>
+    <edge source="&quot;NEW YORK YANKEES&quot;" target="&quot;MAJOR LEAGUE BASEBALL&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The New York Yankees compete in Major League Baseball, representing New York's baseball heritage."| "sports association, professional league"</data>
+      <data key="d5">9</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;NEW YORK YANKEES&quot;" target="&quot;BRONX&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The New York Yankees represent the Bronx in Major League Baseball, establishing the borough's importance in sports."| "sports representation, local significance"</data>
+      <data key="d5">10</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;NEW YORK METS&quot;" target="&quot;MAJOR LEAGUE BASEBALL&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The New York Mets compete in Major League Baseball, representing New York's baseball heritage."| "sports association, professional league"</data>
+      <data key="d5">9</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="BUFFALO" target="NIAGARA FALLS">
+      <data key="d3">7.0</data>
+      <data key="d4">Buffalo is located near Niagara Falls, making it a key city for tourism to this landmark.)</data>
+      <data key="d5">geographical connection</data>
+      <data key="d6">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </edge>
+    <edge source="&quot;HAMILTON GRANGE NATIONAL MEMORIAL&quot;" target="&quot;ALEXANDER HAMILTON&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Hamilton Grange National Memorial is dedicated to preserving Alexander Hamilton's home, highlighting his contributions to American history."</data>
+      <data key="d5">"preservation, historical significance"</data>
+      <data key="d6">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </edge>
+    <edge source="&quot;NATIONAL HOCKEY LEAGUE&quot;" target="&quot;NEW YORK RANGERS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The New York Rangers are a professional team in the National Hockey League, representing New York in ice hockey."| "sports association, professional league"</data>
+      <data key="d5">9</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;THE GOVERNMENT OF NEW YORK&quot;" target="&quot;NEW YORK STATE SENATE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Government of New York includes the State Senate as a key legislative body that creates laws for the state."&lt;'relationship_keywords'</data>
+      <data key="d5">'legislative governance'</data>
+      <data key="d6">chunk-82542267cc0c3c389614966f5c177742</data>
+    </edge>
+    <edge source="&quot;THE GOVERNMENT OF NEW YORK&quot;" target="&quot;NEW YORK STATE ASSEMBLY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Government of New York encompasses the Assembly, indicating a structure that allows for lawmaking."&lt;'relationship_keywords'</data>
+      <data key="d5">'legislative body'</data>
+      <data key="d6">chunk-82542267cc0c3c389614966f5c177742</data>
+    </edge>
+    <edge source="&quot;THE GOVERNMENT OF NEW YORK&quot;" target="&quot;COURT OF APPEALS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Court of Appeals serves as the highest judicial authority within the framework of the government's judicial branch."&lt;'relationship_keywords'</data>
+      <data key="d5">'judicial system'</data>
+      <data key="d6">chunk-82542267cc0c3c389614966f5c177742</data>
+    </edge>
+    <edge source="&quot;HOME OF FRANKLIN D. ROOSEVELT NATIONAL HISTORIC SITE&quot;" target="&quot;FRANKLIN D. ROOSEVELT&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Home of Franklin D. Roosevelt National Historic Site preserves the site associated with Franklin D. Roosevelt, linking his legacy to his home."</data>
+      <data key="d5">"preservation, presidential history"</data>
+      <data key="d6">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </edge>
+    <edge source="&quot;NATIONAL BASKETBALL ASSOCIATION&quot;" target="&quot;NEW YORK KNICKS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The New York Knicks are a professional basketball team in the National Basketball Association, representing New York."| "sports association, professional league"</data>
+      <data key="d5">9</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="NIAGARA FALLS" target="NEW YORK">
+      <data key="d3">9.0</data>
+      <data key="d4">Niagara Falls is a major natural attraction in New York that draws millions of visitors each year, contributing to the state's tourism industry.)</data>
+      <data key="d5">tourism, natural attraction</data>
+      <data key="d6">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </edge>
+    <edge source="&quot;FRANKLIN D. ROOSEVELT&quot;" target="&quot;SARATOGA NATIONAL HISTORICAL PARK&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Saratoga National Historical Park's successful battles impacted American history, paralleling Roosevelt's significant historical role."</data>
+      <data key="d5">"historical significance, military history"</data>
+      <data key="d6">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </edge>
+    <edge source="&quot;FRANKLIN D. ROOSEVELT&quot;" target="&quot;THEODORE ROOSEVELT BIRTHPLACE NATIONAL HISTORIC SITE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The childhood home of Theodore Roosevelt connects to the legacy of U.S. presidents from New York, including Franklin D. Roosevelt."</data>
+      <data key="d5">"presidential history, legacy"</data>
+      <data key="d6">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </edge>
+    <edge source="&quot;WINTER OLYMPICS&quot;" target="&quot;LAKE PLACID&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Lake Placid has hosted the Winter Olympics twice, in 1932 and 1980, marking it as a significant location for this event."| "historical significance, sporting events"</data>
+      <data key="d5">9</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;WINTER OLYMPICS&quot;" target="&quot;MIRACLE ON ICE&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The Miracle on Ice is a notable game that occurred during the 1980 Winter Olympics, highlighting a key moment in sports history."| "historical event, sports moment"</data>
+      <data key="d5">10</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;LAKE ONTARIO NATIONAL MARINE SANCTUARY&quot;" target="&quot;NIAGARA FALLS NATIONAL HERITAGE AREA&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Both entities preserve significant natural and historical areas in New York and contribute to the state's heritage."</data>
+      <data key="d5">"historical preservation, cultural significance"</data>
+      <data key="d6">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </edge>
+    <edge source="NEW YORK CITY" target="ALBANY">
+      <data key="d3">7.0</data>
+      <data key="d4">New York City, as the most significant urban area, contributes to the cultural and political landscape of Albany, the state capital.)</data>
+      <data key="d5">city-capital relationship</data>
+      <data key="d6">chunk-ecd587ab809122e8b8428135b6bcc692</data>
+    </edge>
+    <edge source="&quot;BELMONT STAKES&quot;" target="&quot;NASSAU COUNTY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Belmont Stakes is held in Nassau County, a key location for thoroughbred racing events in New York."| "event location, horse racing"</data>
+      <data key="d5">9</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;ERIE CANAL&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Erie Canal connected New York City to the Great Lakes, significantly impacting trade and transportation in the region."</data>
+      <data key="d5">"infrastructure, trade"</data>
+      <data key="d6">chunk-e43384eb82aa915ac480b509634425ad</data>
+    </edge>
+    <edge source="&quot;STONEWALL NATIONAL MONUMENT&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Stonewall National Monument is located in New York City, symbolizing the city's role in the LGBTQ rights movement."</data>
+      <data key="d5">"cultural significance, LGBTQ rights"</data>
+      <data key="d6">chunk-bb04e8a947124037bbee9b1e5e045532</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;ANNUAL NEW YORK CITY INDIA DAY PARADE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Annual New York City India Day Parade is held in New York City, celebrating cultural heritage."</data>
+      <data key="d5">"cultural celebration, event location"</data>
+      <data key="d6">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;QUEENS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Queens is a borough within New York City, contributing to the city's cultural and ethnic diversity."</data>
+      <data key="d5">"borough relationship, cultural diversity"</data>
+      <data key="d6">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </edge>
+    <edge source="&quot;HISPANIC AND LATINO AMERICAN POPULATION&quot;" target="&quot;QUEENS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Queens has a large Hispanic and Latino American population, reflecting the borough's diversity."</data>
+      <data key="d5">"ethnic diversity, demographic shift"</data>
+      <data key="d6">chunk-66d3ca7a69922f0839f41beadd55587a</data>
+    </edge>
+    <edge source="&quot;COOPERSTOWN&quot;" target="&quot;NATIONAL BASEBALL HALL OF FAME&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The National Baseball Hall of Fame is located in Cooperstown, marking the town's significance in baseball history."| "cultural significance, sports history"</data>
+      <data key="d5">10</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+    <edge source="&quot;FLUSHING MEADOWS–CORONA PARK&quot;" target="&quot;U.S. OPEN TENNIS CHAMPIONSHIPS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The U.S. Open Tennis Championships are held at Flushing Meadows–Corona Park, highlighting its role as a major sports venue."| "event location, tennis significance"</data>
+      <data key="d5">9</data>
+      <data key="d6">chunk-808ad103f53f7e0d3b00829afca2036d</data>
+    </edge>
+  </graph>
+</graphml>
